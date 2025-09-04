@@ -1,0 +1,2501 @@
+instruction,input,output
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I constantly feel like I am worthless and a burden to others.
+2. I constantly feel like I am worthless and a burden to others.
+3. I frequently think about ending everything, I don’t see a way out.
+4. I constantly feel like I am worthless and a burden to others.
+5. I am always exhausted, even talking feels like too much effort.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. I feel empty and disconnected from everything, like life is meaningless.
+8. I frequently think about ending everything, I don’t see a way out.
+9. I barely sleep at night, and when I do, nightmares wake me up.","PHQ-9 Score: 26
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can focus well on my studies without distractions.
+2. I feel confident in myself and my abilities.
+3. No thoughts of self-harm or suicidal ideation.
+4. I feel confident in myself and my abilities.
+5. Sleeping well, no major issues with rest.
+6. Eating habits are normal, no major appetite changes.
+7. Energy levels are good, I can do my daily tasks easily.
+8. I feel fine and enjoy my hobbies as usual.
+9. Energy levels are good, I can do my daily tasks easily.","PHQ-9 Score: 2
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Energy levels are good, I can do my daily tasks easily.
+2. Energy levels are good, I can do my daily tasks easily.
+3. Eating habits are normal, no major appetite changes.
+4. Sleeping well, no major issues with rest.
+5. I can focus well on my studies without distractions.
+6. I feel fine and enjoy my hobbies as usual.
+7. Sleeping well, no major issues with rest.
+8. Energy levels are good, I can do my daily tasks easily.
+9. I can focus well on my studies without distractions.","PHQ-9 Score: 2
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No noticeable change in movement or activity levels.
+2. No thoughts of self-harm or suicidal ideation.
+3. Eating habits are normal, no major appetite changes.
+4. I feel fine and enjoy my hobbies as usual.
+5. I feel confident in myself and my abilities.
+6. Sleeping well, no major issues with rest.
+7. I feel fine and enjoy my hobbies as usual.
+8. Eating habits are normal, no major appetite changes.
+9. Energy levels are good, I can do my daily tasks easily.","PHQ-9 Score: 4
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I am always exhausted, even talking feels like too much effort.
+3. I feel empty and disconnected from everything, like life is meaningless.
+4. I am always exhausted, even talking feels like too much effort.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. I barely sleep at night, and when I do, nightmares wake me up.
+8. I have completely lost my appetite and have lost weight.
+9. I have no motivation to do anything, I just stay in bed all day.","PHQ-9 Score: 21
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have lost interest in everything, I feel like nothing matters.
+2. I can barely sleep at night, and when I do, I wake up frequently.
+3. I can barely sleep at night, and when I do, I wake up frequently.
+4. Most days I feel hopeless and empty.
+5. Most days I feel hopeless and empty.
+6. Even simple tasks drain all my energy.
+7. I can’t focus at all, everything seems blurry in my head.
+8. Even simple tasks drain all my energy.
+9. My appetite is all over the place; I either overeat or don’t eat at all.","PHQ-9 Score: 17
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel like I am not good enough, and it bothers me a lot.
+2. I don’t enjoy activities like I used to, I force myself to do things.
+3. I feel tired even after a full night's sleep.
+4. I feel like I am not good enough, and it bothers me a lot.
+5. I sometimes think about disappearing, but I wouldn’t act on it.
+6. Feeling down most days, like nothing makes me happy anymore.
+7. My eating habits have changed significantly, sometimes I skip meals.
+8. I struggle to concentrate on my assignments and lose track easily.
+9. Feeling down most days, like nothing makes me happy anymore.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have slight trouble falling asleep but not every night.
+2. I get distracted easily but can regain focus quickly.
+3. I occasionally feel uninterested in activities I usually enjoy.
+4. I have slight trouble falling asleep but not every night.
+5. Sometimes I feel down, but it doesn't last long.
+6. I get distracted easily but can regain focus quickly.
+7. I get distracted easily but can regain focus quickly.
+8. Sometimes I feel down, but it doesn't last long.
+9. I get distracted easily but can regain focus quickly.","PHQ-9 Score: 9
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel like I am not good enough, and it bothers me a lot.
+2. Sleeping has become inconsistent, I either sleep too much or too little.
+3. Sleeping has become inconsistent, I either sleep too much or too little.
+4. I sometimes think about disappearing, but I wouldn’t act on it.
+5. Feeling down most days, like nothing makes me happy anymore.
+6. I don’t enjoy activities like I used to, I force myself to do things.
+7. I sometimes think about disappearing, but I wouldn’t act on it.
+8. I don’t enjoy activities like I used to, I force myself to do things.
+9. I feel tired even after a full night's sleep.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have completely lost my appetite and have lost weight.
+2. I am always exhausted, even talking feels like too much effort.
+3. People tell me I seem lifeless or that I barely move anymore.
+4. I feel empty and disconnected from everything, like life is meaningless.
+5. I feel empty and disconnected from everything, like life is meaningless.
+6. I constantly feel like I am worthless and a burden to others.
+7. I constantly feel like I am worthless and a burden to others.
+8. I have no motivation to do anything, I just stay in bed all day.
+9. I am always exhausted, even talking feels like too much effort.","PHQ-9 Score: 25
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite is all over the place; I either overeat or don’t eat at all.
+2. I feel physically sluggish all the time, like I’m weighed down.
+3. Even simple tasks drain all my energy.
+4. I can barely sleep at night, and when I do, I wake up frequently.
+5. I have lost interest in everything, I feel like nothing matters.
+6. Even simple tasks drain all my energy.
+7. I can’t focus at all, everything seems blurry in my head.
+8. My appetite is all over the place; I either overeat or don’t eat at all.
+9. Even simple tasks drain all my energy.","PHQ-9 Score: 17
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No serious thoughts, just moments of feeling overwhelmed.
+2. I fidget a little more than usual, but nothing extreme.
+3. I occasionally feel uninterested in activities I usually enjoy.
+4. I feel a little more tired than usual, but I manage.
+5. Sometimes I feel down, but it doesn't last long.
+6. I get distracted easily but can regain focus quickly.
+7. My appetite fluctuates, but nothing drastic.
+8. I have slight trouble falling asleep but not every night.
+9. No serious thoughts, just moments of feeling overwhelmed.","PHQ-9 Score: 8
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I get distracted easily but can regain focus quickly.
+2. No serious thoughts, just moments of feeling overwhelmed.
+3. I feel a little more tired than usual, but I manage.
+4. I have slight trouble falling asleep but not every night.
+5. I occasionally feel uninterested in activities I usually enjoy.
+6. My appetite fluctuates, but nothing drastic.
+7. No serious thoughts, just moments of feeling overwhelmed.
+8. Sometimes I feel down, but it doesn't last long.
+9. Sometimes I feel down, but it doesn't last long.","PHQ-9 Score: 7
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite is all over the place; I either overeat or don’t eat at all.
+2. I can’t focus at all, everything seems blurry in my head.
+3. I can barely sleep at night, and when I do, I wake up frequently.
+4. I feel physically sluggish all the time, like I’m weighed down.
+5. I feel like a failure and that I let everyone down.
+6. I have lost interest in everything, I feel like nothing matters.
+7. I feel physically sluggish all the time, like I’m weighed down.
+8. I have thoughts about self-harm, but I don’t tell anyone.
+9. I can’t focus at all, everything seems blurry in my head.","PHQ-9 Score: 15
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My eating habits have changed significantly, sometimes I skip meals.
+2. I sometimes think about disappearing, but I wouldn’t act on it.
+3. I feel like I am not good enough, and it bothers me a lot.
+4. I sometimes think about disappearing, but I wouldn’t act on it.
+5. People say I seem slower in responding and doing things.
+6. I feel tired even after a full night's sleep.
+7. I sometimes think about disappearing, but I wouldn’t act on it.
+8. I feel like I am not good enough, and it bothers me a lot.
+9. I feel like I am not good enough, and it bothers me a lot.","PHQ-9 Score: 10
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Most days I feel hopeless and empty.
+2. Even simple tasks drain all my energy.
+3. I have thoughts about self-harm, but I don’t tell anyone.
+4. I can barely sleep at night, and when I do, I wake up frequently.
+5. I have thoughts about self-harm, but I don’t tell anyone.
+6. I have lost interest in everything, I feel like nothing matters.
+7. I feel physically sluggish all the time, like I’m weighed down.
+8. I feel physically sluggish all the time, like I’m weighed down.
+9. I have thoughts about self-harm, but I don’t tell anyone.","PHQ-9 Score: 16
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t concentrate at all, I feel like my brain is shutting down.
+2. I barely sleep at night, and when I do, nightmares wake me up.
+3. I have no motivation to do anything, I just stay in bed all day.
+4. People tell me I seem lifeless or that I barely move anymore.
+5. I have no motivation to do anything, I just stay in bed all day.
+6. I can’t concentrate at all, I feel like my brain is shutting down.
+7. I barely sleep at night, and when I do, nightmares wake me up.
+8. I can’t concentrate at all, I feel like my brain is shutting down.
+9. I constantly feel like I am worthless and a burden to others.","PHQ-9 Score: 21
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have slight trouble falling asleep but not every night.
+2. I occasionally feel uninterested in activities I usually enjoy.
+3. I feel a little more tired than usual, but I manage.
+4. I get distracted easily but can regain focus quickly.
+5. I feel a little more tired than usual, but I manage.
+6. My appetite fluctuates, but nothing drastic.
+7. I feel a little more tired than usual, but I manage.
+8. I occasionally feel uninterested in activities I usually enjoy.
+9. No serious thoughts, just moments of feeling overwhelmed.","PHQ-9 Score: 6
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. People tell me I seem lifeless or that I barely move anymore.
+2. I feel empty and disconnected from everything, like life is meaningless.
+3. I feel empty and disconnected from everything, like life is meaningless.
+4. I constantly feel like I am worthless and a burden to others.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I have no motivation to do anything, I just stay in bed all day.
+7. I feel empty and disconnected from everything, like life is meaningless.
+8. People tell me I seem lifeless or that I barely move anymore.
+9. I barely sleep at night, and when I do, nightmares wake me up.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can barely sleep at night, and when I do, I wake up frequently.
+2. My appetite is all over the place; I either overeat or don’t eat at all.
+3. Even simple tasks drain all my energy.
+4. I have lost interest in everything, I feel like nothing matters.
+5. I can’t focus at all, everything seems blurry in my head.
+6. I feel like a failure and that I let everyone down.
+7. I feel like a failure and that I let everyone down.
+8. I feel like a failure and that I let everyone down.
+9. Most days I feel hopeless and empty.","PHQ-9 Score: 17
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Energy levels are good, I can do my daily tasks easily.
+2. Energy levels are good, I can do my daily tasks easily.
+3. Energy levels are good, I can do my daily tasks easily.
+4. Eating habits are normal, no major appetite changes.
+5. Sleeping well, no major issues with rest.
+6. I can focus well on my studies without distractions.
+7. No thoughts of self-harm or suicidal ideation.
+8. Eating habits are normal, no major appetite changes.
+9. No noticeable change in movement or activity levels.","PHQ-9 Score: 3
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Feeling down most days, like nothing makes me happy anymore.
+2. I struggle to concentrate on my assignments and lose track easily.
+3. Feeling down most days, like nothing makes me happy anymore.
+4. Sleeping has become inconsistent, I either sleep too much or too little.
+5. Feeling down most days, like nothing makes me happy anymore.
+6. My eating habits have changed significantly, sometimes I skip meals.
+7. Feeling down most days, like nothing makes me happy anymore.
+8. My eating habits have changed significantly, sometimes I skip meals.
+9. My eating habits have changed significantly, sometimes I skip meals.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel like a failure and that I let everyone down.
+2. My appetite is all over the place; I either overeat or don’t eat at all.
+3. My appetite is all over the place; I either overeat or don’t eat at all.
+4. Most days I feel hopeless and empty.
+5. Even simple tasks drain all my energy.
+6. Even simple tasks drain all my energy.
+7. Most days I feel hopeless and empty.
+8. I have lost interest in everything, I feel like nothing matters.
+9. My appetite is all over the place; I either overeat or don’t eat at all.","PHQ-9 Score: 19
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sleeping has become inconsistent, I either sleep too much or too little.
+2. My eating habits have changed significantly, sometimes I skip meals.
+3. Feeling down most days, like nothing makes me happy anymore.
+4. I struggle to concentrate on my assignments and lose track easily.
+5. I sometimes think about disappearing, but I wouldn’t act on it.
+6. I feel like I am not good enough, and it bothers me a lot.
+7. I feel tired even after a full night's sleep.
+8. I feel tired even after a full night's sleep.
+9. Feeling down most days, like nothing makes me happy anymore.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No serious thoughts, just moments of feeling overwhelmed.
+2. I fidget a little more than usual, but nothing extreme.
+3. At times I feel I could do better, but it's not overwhelming.
+4. I get distracted easily but can regain focus quickly.
+5. I fidget a little more than usual, but nothing extreme.
+6. At times I feel I could do better, but it's not overwhelming.
+7. Sometimes I feel down, but it doesn't last long.
+8. My appetite fluctuates, but nothing drastic.
+9. I fidget a little more than usual, but nothing extreme.","PHQ-9 Score: 9
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I frequently think about ending everything, I don’t see a way out.
+3. People tell me I seem lifeless or that I barely move anymore.
+4. I barely sleep at night, and when I do, nightmares wake me up.
+5. I frequently think about ending everything, I don’t see a way out.
+6. I have completely lost my appetite and have lost weight.
+7. I barely sleep at night, and when I do, nightmares wake me up.
+8. I constantly feel like I am worthless and a burden to others.
+9. I have no motivation to do anything, I just stay in bed all day.","PHQ-9 Score: 20
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel empty and disconnected from everything, like life is meaningless.
+2. I have no motivation to do anything, I just stay in bed all day.
+3. I have no motivation to do anything, I just stay in bed all day.
+4. I am always exhausted, even talking feels like too much effort.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I constantly feel like I am worthless and a burden to others.
+7. I can’t concentrate at all, I feel like my brain is shutting down.
+8. I have no motivation to do anything, I just stay in bed all day.
+9. I am always exhausted, even talking feels like too much effort.","PHQ-9 Score: 23
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel physically sluggish all the time, like I’m weighed down.
+2. I can’t focus at all, everything seems blurry in my head.
+3. I feel physically sluggish all the time, like I’m weighed down.
+4. I have lost interest in everything, I feel like nothing matters.
+5. Even simple tasks drain all my energy.
+6. I can barely sleep at night, and when I do, I wake up frequently.
+7. I have lost interest in everything, I feel like nothing matters.
+8. I can barely sleep at night, and when I do, I wake up frequently.
+9. Most days I feel hopeless and empty.","PHQ-9 Score: 16
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have no motivation to do anything, I just stay in bed all day.
+2. I have no motivation to do anything, I just stay in bed all day.
+3. I have completely lost my appetite and have lost weight.
+4. People tell me I seem lifeless or that I barely move anymore.
+5. I feel empty and disconnected from everything, like life is meaningless.
+6. I frequently think about ending everything, I don’t see a way out.
+7. I can’t concentrate at all, I feel like my brain is shutting down.
+8. I constantly feel like I am worthless and a burden to others.
+9. People tell me I seem lifeless or that I barely move anymore.","PHQ-9 Score: 24
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. At times I feel I could do better, but it's not overwhelming.
+2. I get distracted easily but can regain focus quickly.
+3. I occasionally feel uninterested in activities I usually enjoy.
+4. I fidget a little more than usual, but nothing extreme.
+5. I occasionally feel uninterested in activities I usually enjoy.
+6. I get distracted easily but can regain focus quickly.
+7. I occasionally feel uninterested in activities I usually enjoy.
+8. No serious thoughts, just moments of feeling overwhelmed.
+9. At times I feel I could do better, but it's not overwhelming.","PHQ-9 Score: 8
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I don’t enjoy activities like I used to, I force myself to do things.
+2. I sometimes think about disappearing, but I wouldn’t act on it.
+3. Feeling down most days, like nothing makes me happy anymore.
+4. I don’t enjoy activities like I used to, I force myself to do things.
+5. Feeling down most days, like nothing makes me happy anymore.
+6. People say I seem slower in responding and doing things.
+7. I struggle to concentrate on my assignments and lose track easily.
+8. People say I seem slower in responding and doing things.
+9. Sleeping has become inconsistent, I either sleep too much or too little.","PHQ-9 Score: 10
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite fluctuates, but nothing drastic.
+2. I have slight trouble falling asleep but not every night.
+3. I have slight trouble falling asleep but not every night.
+4. I have slight trouble falling asleep but not every night.
+5. I occasionally feel uninterested in activities I usually enjoy.
+6. I have slight trouble falling asleep but not every night.
+7. I get distracted easily but can regain focus quickly.
+8. No serious thoughts, just moments of feeling overwhelmed.
+9. My appetite fluctuates, but nothing drastic.","PHQ-9 Score: 5
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Most days I feel hopeless and empty.
+2. I feel like a failure and that I let everyone down.
+3. Most days I feel hopeless and empty.
+4. I have lost interest in everything, I feel like nothing matters.
+5. My appetite is all over the place; I either overeat or don’t eat at all.
+6. I can’t focus at all, everything seems blurry in my head.
+7. I feel physically sluggish all the time, like I’m weighed down.
+8. I feel like a failure and that I let everyone down.
+9. I can’t focus at all, everything seems blurry in my head.","PHQ-9 Score: 15
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I am always exhausted, even talking feels like too much effort.
+2. I feel empty and disconnected from everything, like life is meaningless.
+3. People tell me I seem lifeless or that I barely move anymore.
+4. People tell me I seem lifeless or that I barely move anymore.
+5. I barely sleep at night, and when I do, nightmares wake me up.
+6. I frequently think about ending everything, I don’t see a way out.
+7. I constantly feel like I am worthless and a burden to others.
+8. I have completely lost my appetite and have lost weight.
+9. I constantly feel like I am worthless and a burden to others.","PHQ-9 Score: 24
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I am always exhausted, even talking feels like too much effort.
+2. I have no motivation to do anything, I just stay in bed all day.
+3. I barely sleep at night, and when I do, nightmares wake me up.
+4. I can’t concentrate at all, I feel like my brain is shutting down.
+5. I feel empty and disconnected from everything, like life is meaningless.
+6. I feel empty and disconnected from everything, like life is meaningless.
+7. I constantly feel like I am worthless and a burden to others.
+8. I barely sleep at night, and when I do, nightmares wake me up.
+9. I feel empty and disconnected from everything, like life is meaningless.","PHQ-9 Score: 21
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I am always exhausted, even talking feels like too much effort.
+2. I constantly feel like I am worthless and a burden to others.
+3. I constantly feel like I am worthless and a burden to others.
+4. I barely sleep at night, and when I do, nightmares wake me up.
+5. I frequently think about ending everything, I don’t see a way out.
+6. I constantly feel like I am worthless and a burden to others.
+7. I have completely lost my appetite and have lost weight.
+8. People tell me I seem lifeless or that I barely move anymore.
+9. I barely sleep at night, and when I do, nightmares wake me up.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. People say I seem slower in responding and doing things.
+2. I feel tired even after a full night's sleep.
+3. People say I seem slower in responding and doing things.
+4. I struggle to concentrate on my assignments and lose track easily.
+5. I struggle to concentrate on my assignments and lose track easily.
+6. I sometimes think about disappearing, but I wouldn’t act on it.
+7. I don’t enjoy activities like I used to, I force myself to do things.
+8. Sleeping has become inconsistent, I either sleep too much or too little.
+9. Sleeping has become inconsistent, I either sleep too much or too little.","PHQ-9 Score: 14
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Energy levels are good, I can do my daily tasks easily.
+2. Sleeping well, no major issues with rest.
+3. I can focus well on my studies without distractions.
+4. No thoughts of self-harm or suicidal ideation.
+5. Sleeping well, no major issues with rest.
+6. No thoughts of self-harm or suicidal ideation.
+7. I feel confident in myself and my abilities.
+8. No thoughts of self-harm or suicidal ideation.
+9. I feel confident in myself and my abilities.","PHQ-9 Score: 3
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I frequently think about ending everything, I don’t see a way out.
+2. People tell me I seem lifeless or that I barely move anymore.
+3. I am always exhausted, even talking feels like too much effort.
+4. I have completely lost my appetite and have lost weight.
+5. I can’t concentrate at all, I feel like my brain is shutting down.
+6. I am always exhausted, even talking feels like too much effort.
+7. I barely sleep at night, and when I do, nightmares wake me up.
+8. I have no motivation to do anything, I just stay in bed all day.
+9. People tell me I seem lifeless or that I barely move anymore.","PHQ-9 Score: 23
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. People tell me I seem lifeless or that I barely move anymore.
+2. I barely sleep at night, and when I do, nightmares wake me up.
+3. I have no motivation to do anything, I just stay in bed all day.
+4. I am always exhausted, even talking feels like too much effort.
+5. I feel empty and disconnected from everything, like life is meaningless.
+6. I am always exhausted, even talking feels like too much effort.
+7. I frequently think about ending everything, I don’t see a way out.
+8. I have no motivation to do anything, I just stay in bed all day.
+9. People tell me I seem lifeless or that I barely move anymore.","PHQ-9 Score: 27
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel confident in myself and my abilities.
+2. I can focus well on my studies without distractions.
+3. Eating habits are normal, no major appetite changes.
+4. Energy levels are good, I can do my daily tasks easily.
+5. No noticeable change in movement or activity levels.
+6. Eating habits are normal, no major appetite changes.
+7. Sleeping well, no major issues with rest.
+8. I feel confident in myself and my abilities.
+9. No major changes in mood, I feel mostly okay.","PHQ-9 Score: 0
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Feeling down most days, like nothing makes me happy anymore.
+2. I sometimes think about disappearing, but I wouldn’t act on it.
+3. Sleeping has become inconsistent, I either sleep too much or too little.
+4. Feeling down most days, like nothing makes me happy anymore.
+5. I struggle to concentrate on my assignments and lose track easily.
+6. I feel like I am not good enough, and it bothers me a lot.
+7. People say I seem slower in responding and doing things.
+8. I feel like I am not good enough, and it bothers me a lot.
+9. Feeling down most days, like nothing makes me happy anymore.","PHQ-9 Score: 11
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sleeping has become inconsistent, I either sleep too much or too little.
+2. I struggle to concentrate on my assignments and lose track easily.
+3. I feel like I am not good enough, and it bothers me a lot.
+4. My eating habits have changed significantly, sometimes I skip meals.
+5. Feeling down most days, like nothing makes me happy anymore.
+6. I don’t enjoy activities like I used to, I force myself to do things.
+7. I don’t enjoy activities like I used to, I force myself to do things.
+8. People say I seem slower in responding and doing things.
+9. Sleeping has become inconsistent, I either sleep too much or too little.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel physically sluggish all the time, like I’m weighed down.
+2. I have thoughts about self-harm, but I don’t tell anyone.
+3. My appetite is all over the place; I either overeat or don’t eat at all.
+4. I feel physically sluggish all the time, like I’m weighed down.
+5. Most days I feel hopeless and empty.
+6. Most days I feel hopeless and empty.
+7. I have lost interest in everything, I feel like nothing matters.
+8. I can barely sleep at night, and when I do, I wake up frequently.
+9. Even simple tasks drain all my energy.","PHQ-9 Score: 17
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. At times I feel I could do better, but it's not overwhelming.
+2. Sometimes I feel down, but it doesn't last long.
+3. I occasionally feel uninterested in activities I usually enjoy.
+4. No serious thoughts, just moments of feeling overwhelmed.
+5. I fidget a little more than usual, but nothing extreme.
+6. I fidget a little more than usual, but nothing extreme.
+7. I feel a little more tired than usual, but I manage.
+8. I occasionally feel uninterested in activities I usually enjoy.
+9. My appetite fluctuates, but nothing drastic.","PHQ-9 Score: 7
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel a little more tired than usual, but I manage.
+2. My appetite fluctuates, but nothing drastic.
+3. My appetite fluctuates, but nothing drastic.
+4. I occasionally feel uninterested in activities I usually enjoy.
+5. No serious thoughts, just moments of feeling overwhelmed.
+6. I fidget a little more than usual, but nothing extreme.
+7. I fidget a little more than usual, but nothing extreme.
+8. At times I feel I could do better, but it's not overwhelming.
+9. Sometimes I feel down, but it doesn't last long.","PHQ-9 Score: 6
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I am always exhausted, even talking feels like too much effort.
+3. I feel empty and disconnected from everything, like life is meaningless.
+4. I barely sleep at night, and when I do, nightmares wake me up.
+5. I can’t concentrate at all, I feel like my brain is shutting down.
+6. I barely sleep at night, and when I do, nightmares wake me up.
+7. I constantly feel like I am worthless and a burden to others.
+8. I constantly feel like I am worthless and a burden to others.
+9. I frequently think about ending everything, I don’t see a way out.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I feel empty and disconnected from everything, like life is meaningless.
+3. I feel empty and disconnected from everything, like life is meaningless.
+4. I have completely lost my appetite and have lost weight.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. I feel empty and disconnected from everything, like life is meaningless.
+8. People tell me I seem lifeless or that I barely move anymore.
+9. People tell me I seem lifeless or that I barely move anymore.","PHQ-9 Score: 21
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. People tell me I seem lifeless or that I barely move anymore.
+2. I am always exhausted, even talking feels like too much effort.
+3. I barely sleep at night, and when I do, nightmares wake me up.
+4. I have completely lost my appetite and have lost weight.
+5. I constantly feel like I am worthless and a burden to others.
+6. I can’t concentrate at all, I feel like my brain is shutting down.
+7. I constantly feel like I am worthless and a burden to others.
+8. I am always exhausted, even talking feels like too much effort.
+9. I have completely lost my appetite and have lost weight.","PHQ-9 Score: 26
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel a little more tired than usual, but I manage.
+2. I fidget a little more than usual, but nothing extreme.
+3. I fidget a little more than usual, but nothing extreme.
+4. Sometimes I feel down, but it doesn't last long.
+5. I fidget a little more than usual, but nothing extreme.
+6. My appetite fluctuates, but nothing drastic.
+7. I fidget a little more than usual, but nothing extreme.
+8. No serious thoughts, just moments of feeling overwhelmed.
+9. Sometimes I feel down, but it doesn't last long.","PHQ-9 Score: 7
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I constantly feel like I am worthless and a burden to others.
+2. I have completely lost my appetite and have lost weight.
+3. I constantly feel like I am worthless and a burden to others.
+4. I constantly feel like I am worthless and a burden to others.
+5. I can’t concentrate at all, I feel like my brain is shutting down.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. I barely sleep at night, and when I do, nightmares wake me up.
+8. I can’t concentrate at all, I feel like my brain is shutting down.
+9. I constantly feel like I am worthless and a burden to others.","PHQ-9 Score: 25
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t concentrate at all, I feel like my brain is shutting down.
+2. I have completely lost my appetite and have lost weight.
+3. I frequently think about ending everything, I don’t see a way out.
+4. I feel empty and disconnected from everything, like life is meaningless.
+5. I barely sleep at night, and when I do, nightmares wake me up.
+6. I feel empty and disconnected from everything, like life is meaningless.
+7. I am always exhausted, even talking feels like too much effort.
+8. I have completely lost my appetite and have lost weight.
+9. People tell me I seem lifeless or that I barely move anymore.","PHQ-9 Score: 20
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No thoughts of self-harm or suicidal ideation.
+2. Energy levels are good, I can do my daily tasks easily.
+3. No major changes in mood, I feel mostly okay.
+4. I can focus well on my studies without distractions.
+5. I feel fine and enjoy my hobbies as usual.
+6. I feel fine and enjoy my hobbies as usual.
+7. Eating habits are normal, no major appetite changes.
+8. No thoughts of self-harm or suicidal ideation.
+9. No major changes in mood, I feel mostly okay.","PHQ-9 Score: 3
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I struggle to concentrate on my assignments and lose track easily.
+2. Feeling down most days, like nothing makes me happy anymore.
+3. I don’t enjoy activities like I used to, I force myself to do things.
+4. I sometimes think about disappearing, but I wouldn’t act on it.
+5. Sleeping has become inconsistent, I either sleep too much or too little.
+6. I sometimes think about disappearing, but I wouldn’t act on it.
+7. Sleeping has become inconsistent, I either sleep too much or too little.
+8. Sleeping has become inconsistent, I either sleep too much or too little.
+9. People say I seem slower in responding and doing things.","PHQ-9 Score: 11
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I struggle to concentrate on my assignments and lose track easily.
+2. I feel tired even after a full night's sleep.
+3. Feeling down most days, like nothing makes me happy anymore.
+4. I don’t enjoy activities like I used to, I force myself to do things.
+5. I sometimes think about disappearing, but I wouldn’t act on it.
+6. Sleeping has become inconsistent, I either sleep too much or too little.
+7. I don’t enjoy activities like I used to, I force myself to do things.
+8. I feel tired even after a full night's sleep.
+9. Feeling down most days, like nothing makes me happy anymore.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t focus at all, everything seems blurry in my head.
+2. I feel physically sluggish all the time, like I’m weighed down.
+3. Most days I feel hopeless and empty.
+4. Even simple tasks drain all my energy.
+5. I can’t focus at all, everything seems blurry in my head.
+6. I can’t focus at all, everything seems blurry in my head.
+7. I can barely sleep at night, and when I do, I wake up frequently.
+8. I can’t focus at all, everything seems blurry in my head.
+9. I can barely sleep at night, and when I do, I wake up frequently.","PHQ-9 Score: 17
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have completely lost my appetite and have lost weight.
+2. I have completely lost my appetite and have lost weight.
+3. I frequently think about ending everything, I don’t see a way out.
+4. I am always exhausted, even talking feels like too much effort.
+5. I barely sleep at night, and when I do, nightmares wake me up.
+6. I feel empty and disconnected from everything, like life is meaningless.
+7. I constantly feel like I am worthless and a burden to others.
+8. I have no motivation to do anything, I just stay in bed all day.
+9. I can’t concentrate at all, I feel like my brain is shutting down.","PHQ-9 Score: 26
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel like I am not good enough, and it bothers me a lot.
+2. My eating habits have changed significantly, sometimes I skip meals.
+3. Feeling down most days, like nothing makes me happy anymore.
+4. People say I seem slower in responding and doing things.
+5. My eating habits have changed significantly, sometimes I skip meals.
+6. I don’t enjoy activities like I used to, I force myself to do things.
+7. I struggle to concentrate on my assignments and lose track easily.
+8. I don’t enjoy activities like I used to, I force myself to do things.
+9. I feel tired even after a full night's sleep.","PHQ-9 Score: 11
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I can’t concentrate at all, I feel like my brain is shutting down.
+3. I have completely lost my appetite and have lost weight.
+4. I have no motivation to do anything, I just stay in bed all day.
+5. I constantly feel like I am worthless and a burden to others.
+6. I have no motivation to do anything, I just stay in bed all day.
+7. I frequently think about ending everything, I don’t see a way out.
+8. People tell me I seem lifeless or that I barely move anymore.
+9. I have completely lost my appetite and have lost weight.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel empty and disconnected from everything, like life is meaningless.
+2. I have no motivation to do anything, I just stay in bed all day.
+3. I have completely lost my appetite and have lost weight.
+4. I constantly feel like I am worthless and a burden to others.
+5. I constantly feel like I am worthless and a burden to others.
+6. I constantly feel like I am worthless and a burden to others.
+7. I frequently think about ending everything, I don’t see a way out.
+8. I am always exhausted, even talking feels like too much effort.
+9. I feel empty and disconnected from everything, like life is meaningless.","PHQ-9 Score: 24
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel like I am not good enough, and it bothers me a lot.
+2. Feeling down most days, like nothing makes me happy anymore.
+3. I struggle to concentrate on my assignments and lose track easily.
+4. I don’t enjoy activities like I used to, I force myself to do things.
+5. I don’t enjoy activities like I used to, I force myself to do things.
+6. I struggle to concentrate on my assignments and lose track easily.
+7. People say I seem slower in responding and doing things.
+8. Sleeping has become inconsistent, I either sleep too much or too little.
+9. My eating habits have changed significantly, sometimes I skip meals.","PHQ-9 Score: 12
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I am always exhausted, even talking feels like too much effort.
+2. I can’t concentrate at all, I feel like my brain is shutting down.
+3. People tell me I seem lifeless or that I barely move anymore.
+4. I have no motivation to do anything, I just stay in bed all day.
+5. I barely sleep at night, and when I do, nightmares wake me up.
+6. I can’t concentrate at all, I feel like my brain is shutting down.
+7. People tell me I seem lifeless or that I barely move anymore.
+8. I constantly feel like I am worthless and a burden to others.
+9. I have completely lost my appetite and have lost weight.","PHQ-9 Score: 26
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Most days I feel hopeless and empty.
+2. I can’t focus at all, everything seems blurry in my head.
+3. I feel physically sluggish all the time, like I’m weighed down.
+4. Most days I feel hopeless and empty.
+5. I can’t focus at all, everything seems blurry in my head.
+6. I have lost interest in everything, I feel like nothing matters.
+7. Even simple tasks drain all my energy.
+8. I feel like a failure and that I let everyone down.
+9. I can barely sleep at night, and when I do, I wake up frequently.","PHQ-9 Score: 18
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t focus at all, everything seems blurry in my head.
+2. I feel like a failure and that I let everyone down.
+3. I have thoughts about self-harm, but I don’t tell anyone.
+4. Most days I feel hopeless and empty.
+5. I feel physically sluggish all the time, like I’m weighed down.
+6. I feel like a failure and that I let everyone down.
+7. I have lost interest in everything, I feel like nothing matters.
+8. I feel physically sluggish all the time, like I’m weighed down.
+9. Even simple tasks drain all my energy.","PHQ-9 Score: 16
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel confident in myself and my abilities.
+2. I feel confident in myself and my abilities.
+3. No thoughts of self-harm or suicidal ideation.
+4. Sleeping well, no major issues with rest.
+5. I feel confident in myself and my abilities.
+6. I feel confident in myself and my abilities.
+7. No major changes in mood, I feel mostly okay.
+8. I can focus well on my studies without distractions.
+9. Sleeping well, no major issues with rest.","PHQ-9 Score: 3
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel empty and disconnected from everything, like life is meaningless.
+2. I am always exhausted, even talking feels like too much effort.
+3. I feel empty and disconnected from everything, like life is meaningless.
+4. I have no motivation to do anything, I just stay in bed all day.
+5. I barely sleep at night, and when I do, nightmares wake me up.
+6. I barely sleep at night, and when I do, nightmares wake me up.
+7. I feel empty and disconnected from everything, like life is meaningless.
+8. People tell me I seem lifeless or that I barely move anymore.
+9. I can’t concentrate at all, I feel like my brain is shutting down.","PHQ-9 Score: 26
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel physically sluggish all the time, like I’m weighed down.
+2. Even simple tasks drain all my energy.
+3. I have lost interest in everything, I feel like nothing matters.
+4. Even simple tasks drain all my energy.
+5. My appetite is all over the place; I either overeat or don’t eat at all.
+6. I feel like a failure and that I let everyone down.
+7. I can barely sleep at night, and when I do, I wake up frequently.
+8. Most days I feel hopeless and empty.
+9. I can barely sleep at night, and when I do, I wake up frequently.","PHQ-9 Score: 18
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t concentrate at all, I feel like my brain is shutting down.
+2. I have no motivation to do anything, I just stay in bed all day.
+3. I have completely lost my appetite and have lost weight.
+4. People tell me I seem lifeless or that I barely move anymore.
+5. I have no motivation to do anything, I just stay in bed all day.
+6. I have completely lost my appetite and have lost weight.
+7. I barely sleep at night, and when I do, nightmares wake me up.
+8. I have completely lost my appetite and have lost weight.
+9. I frequently think about ending everything, I don’t see a way out.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I sometimes think about disappearing, but I wouldn’t act on it.
+2. My eating habits have changed significantly, sometimes I skip meals.
+3. I feel like I am not good enough, and it bothers me a lot.
+4. My eating habits have changed significantly, sometimes I skip meals.
+5. People say I seem slower in responding and doing things.
+6. I feel tired even after a full night's sleep.
+7. I struggle to concentrate on my assignments and lose track easily.
+8. I feel tired even after a full night's sleep.
+9. I feel like I am not good enough, and it bothers me a lot.","PHQ-9 Score: 10
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I don’t enjoy activities like I used to, I force myself to do things.
+2. I struggle to concentrate on my assignments and lose track easily.
+3. Feeling down most days, like nothing makes me happy anymore.
+4. Feeling down most days, like nothing makes me happy anymore.
+5. I feel like I am not good enough, and it bothers me a lot.
+6. Sleeping has become inconsistent, I either sleep too much or too little.
+7. Sleeping has become inconsistent, I either sleep too much or too little.
+8. Sleeping has become inconsistent, I either sleep too much or too little.
+9. I feel tired even after a full night's sleep.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sometimes I feel down, but it doesn't last long.
+2. I feel a little more tired than usual, but I manage.
+3. I feel a little more tired than usual, but I manage.
+4. I fidget a little more than usual, but nothing extreme.
+5. I occasionally feel uninterested in activities I usually enjoy.
+6. I have slight trouble falling asleep but not every night.
+7. At times I feel I could do better, but it's not overwhelming.
+8. At times I feel I could do better, but it's not overwhelming.
+9. I feel a little more tired than usual, but I manage.","PHQ-9 Score: 5
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have thoughts about self-harm, but I don’t tell anyone.
+2. Even simple tasks drain all my energy.
+3. I can barely sleep at night, and when I do, I wake up frequently.
+4. I feel like a failure and that I let everyone down.
+5. Most days I feel hopeless and empty.
+6. I have thoughts about self-harm, but I don’t tell anyone.
+7. I can barely sleep at night, and when I do, I wake up frequently.
+8. I can’t focus at all, everything seems blurry in my head.
+9. Most days I feel hopeless and empty.","PHQ-9 Score: 18
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have slight trouble falling asleep but not every night.
+2. My appetite fluctuates, but nothing drastic.
+3. I feel a little more tired than usual, but I manage.
+4. At times I feel I could do better, but it's not overwhelming.
+5. Sometimes I feel down, but it doesn't last long.
+6. At times I feel I could do better, but it's not overwhelming.
+7. I fidget a little more than usual, but nothing extreme.
+8. I fidget a little more than usual, but nothing extreme.
+9. I get distracted easily but can regain focus quickly.","PHQ-9 Score: 5
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can barely sleep at night, and when I do, I wake up frequently.
+2. My appetite is all over the place; I either overeat or don’t eat at all.
+3. My appetite is all over the place; I either overeat or don’t eat at all.
+4. Most days I feel hopeless and empty.
+5. I feel like a failure and that I let everyone down.
+6. I feel like a failure and that I let everyone down.
+7. I feel like a failure and that I let everyone down.
+8. I can barely sleep at night, and when I do, I wake up frequently.
+9. I can’t focus at all, everything seems blurry in my head.","PHQ-9 Score: 19
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sometimes I feel down, but it doesn't last long.
+2. I occasionally feel uninterested in activities I usually enjoy.
+3. I feel a little more tired than usual, but I manage.
+4. At times I feel I could do better, but it's not overwhelming.
+5. I get distracted easily but can regain focus quickly.
+6. I fidget a little more than usual, but nothing extreme.
+7. No serious thoughts, just moments of feeling overwhelmed.
+8. I have slight trouble falling asleep but not every night.
+9. I get distracted easily but can regain focus quickly.","PHQ-9 Score: 9
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can barely sleep at night, and when I do, I wake up frequently.
+2. I have lost interest in everything, I feel like nothing matters.
+3. I have thoughts about self-harm, but I don’t tell anyone.
+4. I feel physically sluggish all the time, like I’m weighed down.
+5. I have thoughts about self-harm, but I don’t tell anyone.
+6. I feel like a failure and that I let everyone down.
+7. I have thoughts about self-harm, but I don’t tell anyone.
+8. Most days I feel hopeless and empty.
+9. Even simple tasks drain all my energy.","PHQ-9 Score: 19
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No serious thoughts, just moments of feeling overwhelmed.
+2. No serious thoughts, just moments of feeling overwhelmed.
+3. My appetite fluctuates, but nothing drastic.
+4. I feel a little more tired than usual, but I manage.
+5. I feel a little more tired than usual, but I manage.
+6. At times I feel I could do better, but it's not overwhelming.
+7. I occasionally feel uninterested in activities I usually enjoy.
+8. I get distracted easily but can regain focus quickly.
+9. I occasionally feel uninterested in activities I usually enjoy.","PHQ-9 Score: 7
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have slight trouble falling asleep but not every night.
+2. I fidget a little more than usual, but nothing extreme.
+3. Sometimes I feel down, but it doesn't last long.
+4. I feel a little more tired than usual, but I manage.
+5. No serious thoughts, just moments of feeling overwhelmed.
+6. Sometimes I feel down, but it doesn't last long.
+7. I occasionally feel uninterested in activities I usually enjoy.
+8. I occasionally feel uninterested in activities I usually enjoy.
+9. I have slight trouble falling asleep but not every night.","PHQ-9 Score: 8
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have completely lost my appetite and have lost weight.
+2. I frequently think about ending everything, I don’t see a way out.
+3. I can’t concentrate at all, I feel like my brain is shutting down.
+4. People tell me I seem lifeless or that I barely move anymore.
+5. I frequently think about ending everything, I don’t see a way out.
+6. I barely sleep at night, and when I do, nightmares wake me up.
+7. I have completely lost my appetite and have lost weight.
+8. I feel empty and disconnected from everything, like life is meaningless.
+9. People tell me I seem lifeless or that I barely move anymore.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I barely sleep at night, and when I do, nightmares wake me up.
+3. I constantly feel like I am worthless and a burden to others.
+4. I can’t concentrate at all, I feel like my brain is shutting down.
+5. I can’t concentrate at all, I feel like my brain is shutting down.
+6. I have no motivation to do anything, I just stay in bed all day.
+7. I am always exhausted, even talking feels like too much effort.
+8. I am always exhausted, even talking feels like too much effort.
+9. I frequently think about ending everything, I don’t see a way out.","PHQ-9 Score: 24
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No serious thoughts, just moments of feeling overwhelmed.
+2. No serious thoughts, just moments of feeling overwhelmed.
+3. No serious thoughts, just moments of feeling overwhelmed.
+4. I have slight trouble falling asleep but not every night.
+5. I have slight trouble falling asleep but not every night.
+6. Sometimes I feel down, but it doesn't last long.
+7. I occasionally feel uninterested in activities I usually enjoy.
+8. At times I feel I could do better, but it's not overwhelming.
+9. I fidget a little more than usual, but nothing extreme.","PHQ-9 Score: 7
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I fidget a little more than usual, but nothing extreme.
+2. I have slight trouble falling asleep but not every night.
+3. At times I feel I could do better, but it's not overwhelming.
+4. I feel a little more tired than usual, but I manage.
+5. I feel a little more tired than usual, but I manage.
+6. I have slight trouble falling asleep but not every night.
+7. I feel a little more tired than usual, but I manage.
+8. My appetite fluctuates, but nothing drastic.
+9. I get distracted easily but can regain focus quickly.","PHQ-9 Score: 7
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel fine and enjoy my hobbies as usual.
+2. No noticeable change in movement or activity levels.
+3. No thoughts of self-harm or suicidal ideation.
+4. No major changes in mood, I feel mostly okay.
+5. Eating habits are normal, no major appetite changes.
+6. I feel confident in myself and my abilities.
+7. Energy levels are good, I can do my daily tasks easily.
+8. I feel fine and enjoy my hobbies as usual.
+9. No thoughts of self-harm or suicidal ideation.","PHQ-9 Score: 4
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I sometimes think about disappearing, but I wouldn’t act on it.
+2. I feel like I am not good enough, and it bothers me a lot.
+3. I feel tired even after a full night's sleep.
+4. I sometimes think about disappearing, but I wouldn’t act on it.
+5. I sometimes think about disappearing, but I wouldn’t act on it.
+6. I struggle to concentrate on my assignments and lose track easily.
+7. People say I seem slower in responding and doing things.
+8. I sometimes think about disappearing, but I wouldn’t act on it.
+9. Sleeping has become inconsistent, I either sleep too much or too little.","PHQ-9 Score: 10
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have lost interest in everything, I feel like nothing matters.
+2. I have thoughts about self-harm, but I don’t tell anyone.
+3. Even simple tasks drain all my energy.
+4. I can’t focus at all, everything seems blurry in my head.
+5. Even simple tasks drain all my energy.
+6. I can’t focus at all, everything seems blurry in my head.
+7. I have lost interest in everything, I feel like nothing matters.
+8. I can barely sleep at night, and when I do, I wake up frequently.
+9. I have thoughts about self-harm, but I don’t tell anyone.","PHQ-9 Score: 16
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel like a failure and that I let everyone down.
+2. My appetite is all over the place; I either overeat or don’t eat at all.
+3. I feel like a failure and that I let everyone down.
+4. I feel like a failure and that I let everyone down.
+5. Even simple tasks drain all my energy.
+6. Even simple tasks drain all my energy.
+7. I can’t focus at all, everything seems blurry in my head.
+8. I have lost interest in everything, I feel like nothing matters.
+9. My appetite is all over the place; I either overeat or don’t eat at all.","PHQ-9 Score: 17
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can focus well on my studies without distractions.
+2. Eating habits are normal, no major appetite changes.
+3. I feel confident in myself and my abilities.
+4. I can focus well on my studies without distractions.
+5. Energy levels are good, I can do my daily tasks easily.
+6. Eating habits are normal, no major appetite changes.
+7. Sleeping well, no major issues with rest.
+8. Energy levels are good, I can do my daily tasks easily.
+9. Energy levels are good, I can do my daily tasks easily.","PHQ-9 Score: 4
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have lost interest in everything, I feel like nothing matters.
+2. Even simple tasks drain all my energy.
+3. I feel like a failure and that I let everyone down.
+4. I feel like a failure and that I let everyone down.
+5. I feel like a failure and that I let everyone down.
+6. I feel physically sluggish all the time, like I’m weighed down.
+7. Even simple tasks drain all my energy.
+8. Most days I feel hopeless and empty.
+9. My appetite is all over the place; I either overeat or don’t eat at all.","PHQ-9 Score: 16
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have thoughts about self-harm, but I don’t tell anyone.
+2. I have thoughts about self-harm, but I don’t tell anyone.
+3. My appetite is all over the place; I either overeat or don’t eat at all.
+4. Even simple tasks drain all my energy.
+5. I can’t focus at all, everything seems blurry in my head.
+6. I feel physically sluggish all the time, like I’m weighed down.
+7. Most days I feel hopeless and empty.
+8. I have lost interest in everything, I feel like nothing matters.
+9. I can barely sleep at night, and when I do, I wake up frequently.","PHQ-9 Score: 19
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite fluctuates, but nothing drastic.
+2. I have slight trouble falling asleep but not every night.
+3. I feel a little more tired than usual, but I manage.
+4. No serious thoughts, just moments of feeling overwhelmed.
+5. I fidget a little more than usual, but nothing extreme.
+6. I get distracted easily but can regain focus quickly.
+7. My appetite fluctuates, but nothing drastic.
+8. At times I feel I could do better, but it's not overwhelming.
+9. I get distracted easily but can regain focus quickly.","PHQ-9 Score: 8
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I constantly feel like I am worthless and a burden to others.
+3. People tell me I seem lifeless or that I barely move anymore.
+4. I barely sleep at night, and when I do, nightmares wake me up.
+5. I am always exhausted, even talking feels like too much effort.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. People tell me I seem lifeless or that I barely move anymore.
+8. I frequently think about ending everything, I don’t see a way out.
+9. I have no motivation to do anything, I just stay in bed all day.","PHQ-9 Score: 27
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have lost interest in everything, I feel like nothing matters.
+2. I feel like a failure and that I let everyone down.
+3. I have lost interest in everything, I feel like nothing matters.
+4. Even simple tasks drain all my energy.
+5. Most days I feel hopeless and empty.
+6. Most days I feel hopeless and empty.
+7. My appetite is all over the place; I either overeat or don’t eat at all.
+8. I have lost interest in everything, I feel like nothing matters.
+9. Most days I feel hopeless and empty.","PHQ-9 Score: 18
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Eating habits are normal, no major appetite changes.
+2. I feel confident in myself and my abilities.
+3. No major changes in mood, I feel mostly okay.
+4. I feel confident in myself and my abilities.
+5. I feel confident in myself and my abilities.
+6. No noticeable change in movement or activity levels.
+7. Sleeping well, no major issues with rest.
+8. Eating habits are normal, no major appetite changes.
+9. No major changes in mood, I feel mostly okay.","PHQ-9 Score: 1
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t focus at all, everything seems blurry in my head.
+2. I feel physically sluggish all the time, like I’m weighed down.
+3. I feel physically sluggish all the time, like I’m weighed down.
+4. Even simple tasks drain all my energy.
+5. Most days I feel hopeless and empty.
+6. Most days I feel hopeless and empty.
+7. I can barely sleep at night, and when I do, I wake up frequently.
+8. I have thoughts about self-harm, but I don’t tell anyone.
+9. Even simple tasks drain all my energy.","PHQ-9 Score: 19
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. At times I feel I could do better, but it's not overwhelming.
+2. My appetite fluctuates, but nothing drastic.
+3. I fidget a little more than usual, but nothing extreme.
+4. At times I feel I could do better, but it's not overwhelming.
+5. I fidget a little more than usual, but nothing extreme.
+6. I get distracted easily but can regain focus quickly.
+7. I occasionally feel uninterested in activities I usually enjoy.
+8. No serious thoughts, just moments of feeling overwhelmed.
+9. No serious thoughts, just moments of feeling overwhelmed.","PHQ-9 Score: 5
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I sometimes think about disappearing, but I wouldn’t act on it.
+2. I don’t enjoy activities like I used to, I force myself to do things.
+3. My eating habits have changed significantly, sometimes I skip meals.
+4. I struggle to concentrate on my assignments and lose track easily.
+5. Feeling down most days, like nothing makes me happy anymore.
+6. I sometimes think about disappearing, but I wouldn’t act on it.
+7. Sleeping has become inconsistent, I either sleep too much or too little.
+8. I feel like I am not good enough, and it bothers me a lot.
+9. People say I seem slower in responding and doing things.","PHQ-9 Score: 14
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel empty and disconnected from everything, like life is meaningless.
+2. I have no motivation to do anything, I just stay in bed all day.
+3. I can’t concentrate at all, I feel like my brain is shutting down.
+4. I have completely lost my appetite and have lost weight.
+5. I can’t concentrate at all, I feel like my brain is shutting down.
+6. I have no motivation to do anything, I just stay in bed all day.
+7. I can’t concentrate at all, I feel like my brain is shutting down.
+8. I can’t concentrate at all, I feel like my brain is shutting down.
+9. I can’t concentrate at all, I feel like my brain is shutting down.","PHQ-9 Score: 21
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel like a failure and that I let everyone down.
+2. I can barely sleep at night, and when I do, I wake up frequently.
+3. I can’t focus at all, everything seems blurry in my head.
+4. I feel physically sluggish all the time, like I’m weighed down.
+5. I feel like a failure and that I let everyone down.
+6. I feel physically sluggish all the time, like I’m weighed down.
+7. I can barely sleep at night, and when I do, I wake up frequently.
+8. I feel physically sluggish all the time, like I’m weighed down.
+9. I have lost interest in everything, I feel like nothing matters.","PHQ-9 Score: 19
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel like I am not good enough, and it bothers me a lot.
+2. Feeling down most days, like nothing makes me happy anymore.
+3. I struggle to concentrate on my assignments and lose track easily.
+4. I struggle to concentrate on my assignments and lose track easily.
+5. People say I seem slower in responding and doing things.
+6. I feel like I am not good enough, and it bothers me a lot.
+7. I feel like I am not good enough, and it bothers me a lot.
+8. I don’t enjoy activities like I used to, I force myself to do things.
+9. My eating habits have changed significantly, sometimes I skip meals.","PHQ-9 Score: 11
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sleeping well, no major issues with rest.
+2. No major changes in mood, I feel mostly okay.
+3. Sleeping well, no major issues with rest.
+4. Sleeping well, no major issues with rest.
+5. I can focus well on my studies without distractions.
+6. Sleeping well, no major issues with rest.
+7. Eating habits are normal, no major appetite changes.
+8. Energy levels are good, I can do my daily tasks easily.
+9. Sleeping well, no major issues with rest.","PHQ-9 Score: 0
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t concentrate at all, I feel like my brain is shutting down.
+2. I have completely lost my appetite and have lost weight.
+3. I frequently think about ending everything, I don’t see a way out.
+4. I feel empty and disconnected from everything, like life is meaningless.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I constantly feel like I am worthless and a burden to others.
+7. I constantly feel like I am worthless and a burden to others.
+8. I can’t concentrate at all, I feel like my brain is shutting down.
+9. I barely sleep at night, and when I do, nightmares wake me up.","PHQ-9 Score: 25
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No thoughts of self-harm or suicidal ideation.
+2. No noticeable change in movement or activity levels.
+3. No noticeable change in movement or activity levels.
+4. Eating habits are normal, no major appetite changes.
+5. I feel fine and enjoy my hobbies as usual.
+6. No major changes in mood, I feel mostly okay.
+7. No noticeable change in movement or activity levels.
+8. I feel confident in myself and my abilities.
+9. No thoughts of self-harm or suicidal ideation.","PHQ-9 Score: 3
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No noticeable change in movement or activity levels.
+2. No noticeable change in movement or activity levels.
+3. Energy levels are good, I can do my daily tasks easily.
+4. Eating habits are normal, no major appetite changes.
+5. No noticeable change in movement or activity levels.
+6. I feel confident in myself and my abilities.
+7. No thoughts of self-harm or suicidal ideation.
+8. No major changes in mood, I feel mostly okay.
+9. I can focus well on my studies without distractions.","PHQ-9 Score: 4
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel confident in myself and my abilities.
+2. Sleeping well, no major issues with rest.
+3. I feel fine and enjoy my hobbies as usual.
+4. Energy levels are good, I can do my daily tasks easily.
+5. Energy levels are good, I can do my daily tasks easily.
+6. Energy levels are good, I can do my daily tasks easily.
+7. I feel confident in myself and my abilities.
+8. I feel confident in myself and my abilities.
+9. Sleeping well, no major issues with rest.","PHQ-9 Score: 0
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel like a failure and that I let everyone down.
+2. I can barely sleep at night, and when I do, I wake up frequently.
+3. Most days I feel hopeless and empty.
+4. I feel like a failure and that I let everyone down.
+5. Even simple tasks drain all my energy.
+6. I have thoughts about self-harm, but I don’t tell anyone.
+7. I feel like a failure and that I let everyone down.
+8. Most days I feel hopeless and empty.
+9. I can’t focus at all, everything seems blurry in my head.","PHQ-9 Score: 16
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I frequently think about ending everything, I don’t see a way out.
+2. I can’t concentrate at all, I feel like my brain is shutting down.
+3. I have completely lost my appetite and have lost weight.
+4. I constantly feel like I am worthless and a burden to others.
+5. I can’t concentrate at all, I feel like my brain is shutting down.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. I have completely lost my appetite and have lost weight.
+8. I barely sleep at night, and when I do, nightmares wake me up.
+9. I can’t concentrate at all, I feel like my brain is shutting down.","PHQ-9 Score: 25
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I constantly feel like I am worthless and a burden to others.
+3. I feel empty and disconnected from everything, like life is meaningless.
+4. I am always exhausted, even talking feels like too much effort.
+5. I can’t concentrate at all, I feel like my brain is shutting down.
+6. I barely sleep at night, and when I do, nightmares wake me up.
+7. I have no motivation to do anything, I just stay in bed all day.
+8. I can’t concentrate at all, I feel like my brain is shutting down.
+9. I have completely lost my appetite and have lost weight.","PHQ-9 Score: 25
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My eating habits have changed significantly, sometimes I skip meals.
+2. My eating habits have changed significantly, sometimes I skip meals.
+3. My eating habits have changed significantly, sometimes I skip meals.
+4. My eating habits have changed significantly, sometimes I skip meals.
+5. I feel tired even after a full night's sleep.
+6. My eating habits have changed significantly, sometimes I skip meals.
+7. I sometimes think about disappearing, but I wouldn’t act on it.
+8. I struggle to concentrate on my assignments and lose track easily.
+9. I feel like I am not good enough, and it bothers me a lot.","PHQ-9 Score: 11
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have completely lost my appetite and have lost weight.
+2. I constantly feel like I am worthless and a burden to others.
+3. I feel empty and disconnected from everything, like life is meaningless.
+4. I feel empty and disconnected from everything, like life is meaningless.
+5. I constantly feel like I am worthless and a burden to others.
+6. I am always exhausted, even talking feels like too much effort.
+7. I frequently think about ending everything, I don’t see a way out.
+8. I feel empty and disconnected from everything, like life is meaningless.
+9. I have no motivation to do anything, I just stay in bed all day.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel empty and disconnected from everything, like life is meaningless.
+2. I frequently think about ending everything, I don’t see a way out.
+3. I constantly feel like I am worthless and a burden to others.
+4. I constantly feel like I am worthless and a burden to others.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I have no motivation to do anything, I just stay in bed all day.
+7. I constantly feel like I am worthless and a burden to others.
+8. I have no motivation to do anything, I just stay in bed all day.
+9. People tell me I seem lifeless or that I barely move anymore.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Even simple tasks drain all my energy.
+2. Even simple tasks drain all my energy.
+3. Most days I feel hopeless and empty.
+4. I can’t focus at all, everything seems blurry in my head.
+5. I have thoughts about self-harm, but I don’t tell anyone.
+6. My appetite is all over the place; I either overeat or don’t eat at all.
+7. I feel physically sluggish all the time, like I’m weighed down.
+8. I have lost interest in everything, I feel like nothing matters.
+9. I have lost interest in everything, I feel like nothing matters.","PHQ-9 Score: 19
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. At times I feel I could do better, but it's not overwhelming.
+2. I get distracted easily but can regain focus quickly.
+3. I fidget a little more than usual, but nothing extreme.
+4. My appetite fluctuates, but nothing drastic.
+5. My appetite fluctuates, but nothing drastic.
+6. I get distracted easily but can regain focus quickly.
+7. I have slight trouble falling asleep but not every night.
+8. At times I feel I could do better, but it's not overwhelming.
+9. I feel a little more tired than usual, but I manage.","PHQ-9 Score: 6
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No thoughts of self-harm or suicidal ideation.
+2. No thoughts of self-harm or suicidal ideation.
+3. I can focus well on my studies without distractions.
+4. I can focus well on my studies without distractions.
+5. No thoughts of self-harm or suicidal ideation.
+6. Energy levels are good, I can do my daily tasks easily.
+7. I can focus well on my studies without distractions.
+8. I feel fine and enjoy my hobbies as usual.
+9. I feel confident in myself and my abilities.","PHQ-9 Score: 4
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sleeping has become inconsistent, I either sleep too much or too little.
+2. I struggle to concentrate on my assignments and lose track easily.
+3. I struggle to concentrate on my assignments and lose track easily.
+4. I don’t enjoy activities like I used to, I force myself to do things.
+5. I don’t enjoy activities like I used to, I force myself to do things.
+6. I feel tired even after a full night's sleep.
+7. I struggle to concentrate on my assignments and lose track easily.
+8. Feeling down most days, like nothing makes me happy anymore.
+9. I feel like I am not good enough, and it bothers me a lot.","PHQ-9 Score: 11
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have lost interest in everything, I feel like nothing matters.
+2. Most days I feel hopeless and empty.
+3. I have lost interest in everything, I feel like nothing matters.
+4. My appetite is all over the place; I either overeat or don’t eat at all.
+5. I can barely sleep at night, and when I do, I wake up frequently.
+6. Even simple tasks drain all my energy.
+7. I can barely sleep at night, and when I do, I wake up frequently.
+8. I can’t focus at all, everything seems blurry in my head.
+9. My appetite is all over the place; I either overeat or don’t eat at all.","PHQ-9 Score: 18
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. At times I feel I could do better, but it's not overwhelming.
+2. I have slight trouble falling asleep but not every night.
+3. Sometimes I feel down, but it doesn't last long.
+4. At times I feel I could do better, but it's not overwhelming.
+5. I feel a little more tired than usual, but I manage.
+6. I get distracted easily but can regain focus quickly.
+7. My appetite fluctuates, but nothing drastic.
+8. I feel a little more tired than usual, but I manage.
+9. No serious thoughts, just moments of feeling overwhelmed.","PHQ-9 Score: 7
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Most days I feel hopeless and empty.
+2. My appetite is all over the place; I either overeat or don’t eat at all.
+3. Even simple tasks drain all my energy.
+4. Most days I feel hopeless and empty.
+5. Even simple tasks drain all my energy.
+6. I feel like a failure and that I let everyone down.
+7. I have thoughts about self-harm, but I don’t tell anyone.
+8. I have lost interest in everything, I feel like nothing matters.
+9. My appetite is all over the place; I either overeat or don’t eat at all.","PHQ-9 Score: 17
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can focus well on my studies without distractions.
+2. I feel fine and enjoy my hobbies as usual.
+3. I can focus well on my studies without distractions.
+4. Energy levels are good, I can do my daily tasks easily.
+5. No noticeable change in movement or activity levels.
+6. Sleeping well, no major issues with rest.
+7. No major changes in mood, I feel mostly okay.
+8. I can focus well on my studies without distractions.
+9. No noticeable change in movement or activity levels.","PHQ-9 Score: 0
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No thoughts of self-harm or suicidal ideation.
+2. I feel confident in myself and my abilities.
+3. Eating habits are normal, no major appetite changes.
+4. I can focus well on my studies without distractions.
+5. I feel fine and enjoy my hobbies as usual.
+6. I feel fine and enjoy my hobbies as usual.
+7. I can focus well on my studies without distractions.
+8. No thoughts of self-harm or suicidal ideation.
+9. I can focus well on my studies without distractions.","PHQ-9 Score: 3
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel tired even after a full night's sleep.
+2. Feeling down most days, like nothing makes me happy anymore.
+3. I don’t enjoy activities like I used to, I force myself to do things.
+4. Feeling down most days, like nothing makes me happy anymore.
+5. I sometimes think about disappearing, but I wouldn’t act on it.
+6. I don’t enjoy activities like I used to, I force myself to do things.
+7. I struggle to concentrate on my assignments and lose track easily.
+8. I struggle to concentrate on my assignments and lose track easily.
+9. I feel like I am not good enough, and it bothers me a lot.","PHQ-9 Score: 10
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel empty and disconnected from everything, like life is meaningless.
+2. I have completely lost my appetite and have lost weight.
+3. People tell me I seem lifeless or that I barely move anymore.
+4. I can’t concentrate at all, I feel like my brain is shutting down.
+5. I feel empty and disconnected from everything, like life is meaningless.
+6. I have completely lost my appetite and have lost weight.
+7. I have no motivation to do anything, I just stay in bed all day.
+8. I barely sleep at night, and when I do, nightmares wake me up.
+9. I have completely lost my appetite and have lost weight.","PHQ-9 Score: 26
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have no motivation to do anything, I just stay in bed all day.
+2. I have no motivation to do anything, I just stay in bed all day.
+3. I barely sleep at night, and when I do, nightmares wake me up.
+4. I feel empty and disconnected from everything, like life is meaningless.
+5. I barely sleep at night, and when I do, nightmares wake me up.
+6. I feel empty and disconnected from everything, like life is meaningless.
+7. I have completely lost my appetite and have lost weight.
+8. I can’t concentrate at all, I feel like my brain is shutting down.
+9. I constantly feel like I am worthless and a burden to others.","PHQ-9 Score: 21
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Eating habits are normal, no major appetite changes.
+2. Energy levels are good, I can do my daily tasks easily.
+3. I can focus well on my studies without distractions.
+4. No noticeable change in movement or activity levels.
+5. No major changes in mood, I feel mostly okay.
+6. I feel confident in myself and my abilities.
+7. Sleeping well, no major issues with rest.
+8. No thoughts of self-harm or suicidal ideation.
+9. No thoughts of self-harm or suicidal ideation.","PHQ-9 Score: 2
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. People say I seem slower in responding and doing things.
+2. People say I seem slower in responding and doing things.
+3. I don’t enjoy activities like I used to, I force myself to do things.
+4. I feel tired even after a full night's sleep.
+5. I sometimes think about disappearing, but I wouldn’t act on it.
+6. I struggle to concentrate on my assignments and lose track easily.
+7. I sometimes think about disappearing, but I wouldn’t act on it.
+8. I feel tired even after a full night's sleep.
+9. My eating habits have changed significantly, sometimes I skip meals.","PHQ-9 Score: 12
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I don’t enjoy activities like I used to, I force myself to do things.
+2. I sometimes think about disappearing, but I wouldn’t act on it.
+3. I feel like I am not good enough, and it bothers me a lot.
+4. Feeling down most days, like nothing makes me happy anymore.
+5. I sometimes think about disappearing, but I wouldn’t act on it.
+6. I struggle to concentrate on my assignments and lose track easily.
+7. My eating habits have changed significantly, sometimes I skip meals.
+8. Feeling down most days, like nothing makes me happy anymore.
+9. I don’t enjoy activities like I used to, I force myself to do things.","PHQ-9 Score: 11
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can barely sleep at night, and when I do, I wake up frequently.
+2. My appetite is all over the place; I either overeat or don’t eat at all.
+3. I can barely sleep at night, and when I do, I wake up frequently.
+4. Most days I feel hopeless and empty.
+5. I can’t focus at all, everything seems blurry in my head.
+6. My appetite is all over the place; I either overeat or don’t eat at all.
+7. I have lost interest in everything, I feel like nothing matters.
+8. I feel physically sluggish all the time, like I’m weighed down.
+9. I can barely sleep at night, and when I do, I wake up frequently.","PHQ-9 Score: 19
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite is all over the place; I either overeat or don’t eat at all.
+2. My appetite is all over the place; I either overeat or don’t eat at all.
+3. Even simple tasks drain all my energy.
+4. I can’t focus at all, everything seems blurry in my head.
+5. I have thoughts about self-harm, but I don’t tell anyone.
+6. My appetite is all over the place; I either overeat or don’t eat at all.
+7. Even simple tasks drain all my energy.
+8. I can barely sleep at night, and when I do, I wake up frequently.
+9. My appetite is all over the place; I either overeat or don’t eat at all.","PHQ-9 Score: 18
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite is all over the place; I either overeat or don’t eat at all.
+2. I can’t focus at all, everything seems blurry in my head.
+3. Even simple tasks drain all my energy.
+4. I have lost interest in everything, I feel like nothing matters.
+5. My appetite is all over the place; I either overeat or don’t eat at all.
+6. My appetite is all over the place; I either overeat or don’t eat at all.
+7. I feel physically sluggish all the time, like I’m weighed down.
+8. I feel like a failure and that I let everyone down.
+9. I can barely sleep at night, and when I do, I wake up frequently.","PHQ-9 Score: 18
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel fine and enjoy my hobbies as usual.
+2. I can focus well on my studies without distractions.
+3. No thoughts of self-harm or suicidal ideation.
+4. I can focus well on my studies without distractions.
+5. No major changes in mood, I feel mostly okay.
+6. No thoughts of self-harm or suicidal ideation.
+7. No major changes in mood, I feel mostly okay.
+8. I feel confident in myself and my abilities.
+9. No noticeable change in movement or activity levels.","PHQ-9 Score: 4
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I barely sleep at night, and when I do, nightmares wake me up.
+3. People tell me I seem lifeless or that I barely move anymore.
+4. I can’t concentrate at all, I feel like my brain is shutting down.
+5. I am always exhausted, even talking feels like too much effort.
+6. I have completely lost my appetite and have lost weight.
+7. I frequently think about ending everything, I don’t see a way out.
+8. I frequently think about ending everything, I don’t see a way out.
+9. I frequently think about ending everything, I don’t see a way out.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I frequently think about ending everything, I don’t see a way out.
+2. I have completely lost my appetite and have lost weight.
+3. I am always exhausted, even talking feels like too much effort.
+4. I can’t concentrate at all, I feel like my brain is shutting down.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I have completely lost my appetite and have lost weight.
+7. I can’t concentrate at all, I feel like my brain is shutting down.
+8. People tell me I seem lifeless or that I barely move anymore.
+9. I have no motivation to do anything, I just stay in bed all day.","PHQ-9 Score: 20
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t concentrate at all, I feel like my brain is shutting down.
+2. I constantly feel like I am worthless and a burden to others.
+3. I barely sleep at night, and when I do, nightmares wake me up.
+4. I barely sleep at night, and when I do, nightmares wake me up.
+5. I am always exhausted, even talking feels like too much effort.
+6. I have completely lost my appetite and have lost weight.
+7. I have completely lost my appetite and have lost weight.
+8. People tell me I seem lifeless or that I barely move anymore.
+9. I feel empty and disconnected from everything, like life is meaningless.","PHQ-9 Score: 24
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I am always exhausted, even talking feels like too much effort.
+2. I barely sleep at night, and when I do, nightmares wake me up.
+3. I constantly feel like I am worthless and a burden to others.
+4. I am always exhausted, even talking feels like too much effort.
+5. I have no motivation to do anything, I just stay in bed all day.
+6. I feel empty and disconnected from everything, like life is meaningless.
+7. I am always exhausted, even talking feels like too much effort.
+8. I frequently think about ending everything, I don’t see a way out.
+9. I frequently think about ending everything, I don’t see a way out.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I frequently think about ending everything, I don’t see a way out.
+2. People tell me I seem lifeless or that I barely move anymore.
+3. I constantly feel like I am worthless and a burden to others.
+4. I am always exhausted, even talking feels like too much effort.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I barely sleep at night, and when I do, nightmares wake me up.
+7. I barely sleep at night, and when I do, nightmares wake me up.
+8. I have completely lost my appetite and have lost weight.
+9. People tell me I seem lifeless or that I barely move anymore.","PHQ-9 Score: 23
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel physically sluggish all the time, like I’m weighed down.
+2. I feel physically sluggish all the time, like I’m weighed down.
+3. I have lost interest in everything, I feel like nothing matters.
+4. I can’t focus at all, everything seems blurry in my head.
+5. I feel like a failure and that I let everyone down.
+6. Even simple tasks drain all my energy.
+7. My appetite is all over the place; I either overeat or don’t eat at all.
+8. I can barely sleep at night, and when I do, I wake up frequently.
+9. My appetite is all over the place; I either overeat or don’t eat at all.","PHQ-9 Score: 17
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I constantly feel like I am worthless and a burden to others.
+2. I have completely lost my appetite and have lost weight.
+3. I feel empty and disconnected from everything, like life is meaningless.
+4. I have completely lost my appetite and have lost weight.
+5. I have completely lost my appetite and have lost weight.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. I have no motivation to do anything, I just stay in bed all day.
+8. I have no motivation to do anything, I just stay in bed all day.
+9. People tell me I seem lifeless or that I barely move anymore.","PHQ-9 Score: 25
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I don’t enjoy activities like I used to, I force myself to do things.
+2. People say I seem slower in responding and doing things.
+3. I feel tired even after a full night's sleep.
+4. I don’t enjoy activities like I used to, I force myself to do things.
+5. I feel like I am not good enough, and it bothers me a lot.
+6. Sleeping has become inconsistent, I either sleep too much or too little.
+7. I don’t enjoy activities like I used to, I force myself to do things.
+8. I feel tired even after a full night's sleep.
+9. My eating habits have changed significantly, sometimes I skip meals.","PHQ-9 Score: 11
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I get distracted easily but can regain focus quickly.
+2. No serious thoughts, just moments of feeling overwhelmed.
+3. I feel a little more tired than usual, but I manage.
+4. At times I feel I could do better, but it's not overwhelming.
+5. My appetite fluctuates, but nothing drastic.
+6. I occasionally feel uninterested in activities I usually enjoy.
+7. I feel a little more tired than usual, but I manage.
+8. I get distracted easily but can regain focus quickly.
+9. I feel a little more tired than usual, but I manage.","PHQ-9 Score: 6
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No serious thoughts, just moments of feeling overwhelmed.
+2. I fidget a little more than usual, but nothing extreme.
+3. I get distracted easily but can regain focus quickly.
+4. I have slight trouble falling asleep but not every night.
+5. No serious thoughts, just moments of feeling overwhelmed.
+6. I occasionally feel uninterested in activities I usually enjoy.
+7. I get distracted easily but can regain focus quickly.
+8. I feel a little more tired than usual, but I manage.
+9. I feel a little more tired than usual, but I manage.","PHQ-9 Score: 6
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No serious thoughts, just moments of feeling overwhelmed.
+2. I fidget a little more than usual, but nothing extreme.
+3. I have slight trouble falling asleep but not every night.
+4. I feel a little more tired than usual, but I manage.
+5. Sometimes I feel down, but it doesn't last long.
+6. My appetite fluctuates, but nothing drastic.
+7. I fidget a little more than usual, but nothing extreme.
+8. Sometimes I feel down, but it doesn't last long.
+9. I get distracted easily but can regain focus quickly.","PHQ-9 Score: 5
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No serious thoughts, just moments of feeling overwhelmed.
+2. I feel a little more tired than usual, but I manage.
+3. I feel a little more tired than usual, but I manage.
+4. I feel a little more tired than usual, but I manage.
+5. Sometimes I feel down, but it doesn't last long.
+6. My appetite fluctuates, but nothing drastic.
+7. No serious thoughts, just moments of feeling overwhelmed.
+8. I have slight trouble falling asleep but not every night.
+9. At times I feel I could do better, but it's not overwhelming.","PHQ-9 Score: 9
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t concentrate at all, I feel like my brain is shutting down.
+2. I am always exhausted, even talking feels like too much effort.
+3. I am always exhausted, even talking feels like too much effort.
+4. I feel empty and disconnected from everything, like life is meaningless.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I frequently think about ending everything, I don’t see a way out.
+7. I am always exhausted, even talking feels like too much effort.
+8. I have no motivation to do anything, I just stay in bed all day.
+9. I constantly feel like I am worthless and a burden to others.","PHQ-9 Score: 21
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel confident in myself and my abilities.
+2. Eating habits are normal, no major appetite changes.
+3. I feel fine and enjoy my hobbies as usual.
+4. No major changes in mood, I feel mostly okay.
+5. Sleeping well, no major issues with rest.
+6. No major changes in mood, I feel mostly okay.
+7. No major changes in mood, I feel mostly okay.
+8. I can focus well on my studies without distractions.
+9. Sleeping well, no major issues with rest.","PHQ-9 Score: 4
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite is all over the place; I either overeat or don’t eat at all.
+2. I can’t focus at all, everything seems blurry in my head.
+3. I have thoughts about self-harm, but I don’t tell anyone.
+4. My appetite is all over the place; I either overeat or don’t eat at all.
+5. I feel like a failure and that I let everyone down.
+6. I feel physically sluggish all the time, like I’m weighed down.
+7. I feel physically sluggish all the time, like I’m weighed down.
+8. Even simple tasks drain all my energy.
+9. Most days I feel hopeless and empty.","PHQ-9 Score: 15
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel tired even after a full night's sleep.
+2. People say I seem slower in responding and doing things.
+3. Sleeping has become inconsistent, I either sleep too much or too little.
+4. I feel like I am not good enough, and it bothers me a lot.
+5. I struggle to concentrate on my assignments and lose track easily.
+6. My eating habits have changed significantly, sometimes I skip meals.
+7. I don’t enjoy activities like I used to, I force myself to do things.
+8. Feeling down most days, like nothing makes me happy anymore.
+9. People say I seem slower in responding and doing things.","PHQ-9 Score: 14
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I get distracted easily but can regain focus quickly.
+2. I occasionally feel uninterested in activities I usually enjoy.
+3. I fidget a little more than usual, but nothing extreme.
+4. I feel a little more tired than usual, but I manage.
+5. I have slight trouble falling asleep but not every night.
+6. Sometimes I feel down, but it doesn't last long.
+7. No serious thoughts, just moments of feeling overwhelmed.
+8. I have slight trouble falling asleep but not every night.
+9. No serious thoughts, just moments of feeling overwhelmed.","PHQ-9 Score: 6
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. People tell me I seem lifeless or that I barely move anymore.
+2. I have completely lost my appetite and have lost weight.
+3. People tell me I seem lifeless or that I barely move anymore.
+4. I am always exhausted, even talking feels like too much effort.
+5. I have completely lost my appetite and have lost weight.
+6. I barely sleep at night, and when I do, nightmares wake me up.
+7. I frequently think about ending everything, I don’t see a way out.
+8. I have no motivation to do anything, I just stay in bed all day.
+9. I am always exhausted, even talking feels like too much effort.","PHQ-9 Score: 21
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel tired even after a full night's sleep.
+2. I feel tired even after a full night's sleep.
+3. People say I seem slower in responding and doing things.
+4. Feeling down most days, like nothing makes me happy anymore.
+5. I don’t enjoy activities like I used to, I force myself to do things.
+6. I feel tired even after a full night's sleep.
+7. I feel tired even after a full night's sleep.
+8. Sleeping has become inconsistent, I either sleep too much or too little.
+9. Sleeping has become inconsistent, I either sleep too much or too little.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No noticeable change in movement or activity levels.
+2. No major changes in mood, I feel mostly okay.
+3. No major changes in mood, I feel mostly okay.
+4. I can focus well on my studies without distractions.
+5. I can focus well on my studies without distractions.
+6. Sleeping well, no major issues with rest.
+7. I feel fine and enjoy my hobbies as usual.
+8. Energy levels are good, I can do my daily tasks easily.
+9. Eating habits are normal, no major appetite changes.","PHQ-9 Score: 2
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No noticeable change in movement or activity levels.
+2. No major changes in mood, I feel mostly okay.
+3. I feel confident in myself and my abilities.
+4. No noticeable change in movement or activity levels.
+5. Eating habits are normal, no major appetite changes.
+6. No major changes in mood, I feel mostly okay.
+7. No thoughts of self-harm or suicidal ideation.
+8. No noticeable change in movement or activity levels.
+9. No major changes in mood, I feel mostly okay.","PHQ-9 Score: 4
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Eating habits are normal, no major appetite changes.
+2. I feel fine and enjoy my hobbies as usual.
+3. Sleeping well, no major issues with rest.
+4. Eating habits are normal, no major appetite changes.
+5. I feel fine and enjoy my hobbies as usual.
+6. I can focus well on my studies without distractions.
+7. No noticeable change in movement or activity levels.
+8. No major changes in mood, I feel mostly okay.
+9. I feel confident in myself and my abilities.","PHQ-9 Score: 4
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have thoughts about self-harm, but I don’t tell anyone.
+2. I feel physically sluggish all the time, like I’m weighed down.
+3. I can’t focus at all, everything seems blurry in my head.
+4. My appetite is all over the place; I either overeat or don’t eat at all.
+5. I can barely sleep at night, and when I do, I wake up frequently.
+6. My appetite is all over the place; I either overeat or don’t eat at all.
+7. I have lost interest in everything, I feel like nothing matters.
+8. I can barely sleep at night, and when I do, I wake up frequently.
+9. I have lost interest in everything, I feel like nothing matters.","PHQ-9 Score: 15
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have slight trouble falling asleep but not every night.
+2. My appetite fluctuates, but nothing drastic.
+3. My appetite fluctuates, but nothing drastic.
+4. No serious thoughts, just moments of feeling overwhelmed.
+5. I have slight trouble falling asleep but not every night.
+6. I get distracted easily but can regain focus quickly.
+7. I have slight trouble falling asleep but not every night.
+8. I have slight trouble falling asleep but not every night.
+9. I feel a little more tired than usual, but I manage.","PHQ-9 Score: 7
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have completely lost my appetite and have lost weight.
+2. I have completely lost my appetite and have lost weight.
+3. I have completely lost my appetite and have lost weight.
+4. I am always exhausted, even talking feels like too much effort.
+5. I can’t concentrate at all, I feel like my brain is shutting down.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. People tell me I seem lifeless or that I barely move anymore.
+8. I frequently think about ending everything, I don’t see a way out.
+9. I frequently think about ending everything, I don’t see a way out.","PHQ-9 Score: 21
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. People tell me I seem lifeless or that I barely move anymore.
+2. I can’t concentrate at all, I feel like my brain is shutting down.
+3. People tell me I seem lifeless or that I barely move anymore.
+4. I barely sleep at night, and when I do, nightmares wake me up.
+5. I barely sleep at night, and when I do, nightmares wake me up.
+6. I barely sleep at night, and when I do, nightmares wake me up.
+7. I feel empty and disconnected from everything, like life is meaningless.
+8. I can’t concentrate at all, I feel like my brain is shutting down.
+9. I frequently think about ending everything, I don’t see a way out.","PHQ-9 Score: 23
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel fine and enjoy my hobbies as usual.
+2. Energy levels are good, I can do my daily tasks easily.
+3. I feel fine and enjoy my hobbies as usual.
+4. No noticeable change in movement or activity levels.
+5. No noticeable change in movement or activity levels.
+6. I can focus well on my studies without distractions.
+7. Eating habits are normal, no major appetite changes.
+8. Eating habits are normal, no major appetite changes.
+9. No thoughts of self-harm or suicidal ideation.","PHQ-9 Score: 2
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have lost interest in everything, I feel like nothing matters.
+2. I feel like a failure and that I let everyone down.
+3. I can’t focus at all, everything seems blurry in my head.
+4. Even simple tasks drain all my energy.
+5. My appetite is all over the place; I either overeat or don’t eat at all.
+6. My appetite is all over the place; I either overeat or don’t eat at all.
+7. I can barely sleep at night, and when I do, I wake up frequently.
+8. I have thoughts about self-harm, but I don’t tell anyone.
+9. I feel like a failure and that I let everyone down.","PHQ-9 Score: 19
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel confident in myself and my abilities.
+2. Energy levels are good, I can do my daily tasks easily.
+3. No noticeable change in movement or activity levels.
+4. I feel confident in myself and my abilities.
+5. I feel fine and enjoy my hobbies as usual.
+6. No major changes in mood, I feel mostly okay.
+7. Sleeping well, no major issues with rest.
+8. Eating habits are normal, no major appetite changes.
+9. No thoughts of self-harm or suicidal ideation.","PHQ-9 Score: 1
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite fluctuates, but nothing drastic.
+2. I fidget a little more than usual, but nothing extreme.
+3. I occasionally feel uninterested in activities I usually enjoy.
+4. I fidget a little more than usual, but nothing extreme.
+5. My appetite fluctuates, but nothing drastic.
+6. No serious thoughts, just moments of feeling overwhelmed.
+7. I have slight trouble falling asleep but not every night.
+8. Sometimes I feel down, but it doesn't last long.
+9. No serious thoughts, just moments of feeling overwhelmed.","PHQ-9 Score: 6
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have thoughts about self-harm, but I don’t tell anyone.
+2. I have lost interest in everything, I feel like nothing matters.
+3. Even simple tasks drain all my energy.
+4. Even simple tasks drain all my energy.
+5. Even simple tasks drain all my energy.
+6. Most days I feel hopeless and empty.
+7. I can barely sleep at night, and when I do, I wake up frequently.
+8. I have thoughts about self-harm, but I don’t tell anyone.
+9. I have thoughts about self-harm, but I don’t tell anyone.","PHQ-9 Score: 16
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel a little more tired than usual, but I manage.
+2. At times I feel I could do better, but it's not overwhelming.
+3. I have slight trouble falling asleep but not every night.
+4. I fidget a little more than usual, but nothing extreme.
+5. I fidget a little more than usual, but nothing extreme.
+6. I fidget a little more than usual, but nothing extreme.
+7. Sometimes I feel down, but it doesn't last long.
+8. I fidget a little more than usual, but nothing extreme.
+9. I feel a little more tired than usual, but I manage.","PHQ-9 Score: 7
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have no motivation to do anything, I just stay in bed all day.
+2. I frequently think about ending everything, I don’t see a way out.
+3. People tell me I seem lifeless or that I barely move anymore.
+4. I have no motivation to do anything, I just stay in bed all day.
+5. I am always exhausted, even talking feels like too much effort.
+6. I frequently think about ending everything, I don’t see a way out.
+7. I am always exhausted, even talking feels like too much effort.
+8. I constantly feel like I am worthless and a burden to others.
+9. I feel empty and disconnected from everything, like life is meaningless.","PHQ-9 Score: 26
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel empty and disconnected from everything, like life is meaningless.
+2. I constantly feel like I am worthless and a burden to others.
+3. I barely sleep at night, and when I do, nightmares wake me up.
+4. People tell me I seem lifeless or that I barely move anymore.
+5. I constantly feel like I am worthless and a burden to others.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. I am always exhausted, even talking feels like too much effort.
+8. I barely sleep at night, and when I do, nightmares wake me up.
+9. I have no motivation to do anything, I just stay in bed all day.","PHQ-9 Score: 26
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t concentrate at all, I feel like my brain is shutting down.
+2. I am always exhausted, even talking feels like too much effort.
+3. I constantly feel like I am worthless and a burden to others.
+4. I can’t concentrate at all, I feel like my brain is shutting down.
+5. I barely sleep at night, and when I do, nightmares wake me up.
+6. I have no motivation to do anything, I just stay in bed all day.
+7. I am always exhausted, even talking feels like too much effort.
+8. I can’t concentrate at all, I feel like my brain is shutting down.
+9. I can’t concentrate at all, I feel like my brain is shutting down.","PHQ-9 Score: 23
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel confident in myself and my abilities.
+2. No major changes in mood, I feel mostly okay.
+3. Energy levels are good, I can do my daily tasks easily.
+4. No noticeable change in movement or activity levels.
+5. Energy levels are good, I can do my daily tasks easily.
+6. No thoughts of self-harm or suicidal ideation.
+7. No noticeable change in movement or activity levels.
+8. No thoughts of self-harm or suicidal ideation.
+9. No noticeable change in movement or activity levels.","PHQ-9 Score: 3
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I fidget a little more than usual, but nothing extreme.
+2. My appetite fluctuates, but nothing drastic.
+3. I have slight trouble falling asleep but not every night.
+4. I have slight trouble falling asleep but not every night.
+5. I occasionally feel uninterested in activities I usually enjoy.
+6. I feel a little more tired than usual, but I manage.
+7. I feel a little more tired than usual, but I manage.
+8. I occasionally feel uninterested in activities I usually enjoy.
+9. My appetite fluctuates, but nothing drastic.","PHQ-9 Score: 6
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have lost interest in everything, I feel like nothing matters.
+2. My appetite is all over the place; I either overeat or don’t eat at all.
+3. I feel physically sluggish all the time, like I’m weighed down.
+4. I have thoughts about self-harm, but I don’t tell anyone.
+5. My appetite is all over the place; I either overeat or don’t eat at all.
+6. Most days I feel hopeless and empty.
+7. I have lost interest in everything, I feel like nothing matters.
+8. I feel physically sluggish all the time, like I’m weighed down.
+9. I have lost interest in everything, I feel like nothing matters.","PHQ-9 Score: 15
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I am always exhausted, even talking feels like too much effort.
+2. I feel empty and disconnected from everything, like life is meaningless.
+3. I frequently think about ending everything, I don’t see a way out.
+4. I frequently think about ending everything, I don’t see a way out.
+5. I barely sleep at night, and when I do, nightmares wake me up.
+6. I have no motivation to do anything, I just stay in bed all day.
+7. I am always exhausted, even talking feels like too much effort.
+8. I can’t concentrate at all, I feel like my brain is shutting down.
+9. I feel empty and disconnected from everything, like life is meaningless.","PHQ-9 Score: 20
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t focus at all, everything seems blurry in my head.
+2. I have thoughts about self-harm, but I don’t tell anyone.
+3. I have thoughts about self-harm, but I don’t tell anyone.
+4. Most days I feel hopeless and empty.
+5. I feel like a failure and that I let everyone down.
+6. Most days I feel hopeless and empty.
+7. My appetite is all over the place; I either overeat or don’t eat at all.
+8. I can’t focus at all, everything seems blurry in my head.
+9. I can barely sleep at night, and when I do, I wake up frequently.","PHQ-9 Score: 18
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sleeping has become inconsistent, I either sleep too much or too little.
+2. I don’t enjoy activities like I used to, I force myself to do things.
+3. I feel like I am not good enough, and it bothers me a lot.
+4. Sleeping has become inconsistent, I either sleep too much or too little.
+5. I feel like I am not good enough, and it bothers me a lot.
+6. I struggle to concentrate on my assignments and lose track easily.
+7. Sleeping has become inconsistent, I either sleep too much or too little.
+8. I sometimes think about disappearing, but I wouldn’t act on it.
+9. I don’t enjoy activities like I used to, I force myself to do things.","PHQ-9 Score: 11
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have lost interest in everything, I feel like nothing matters.
+2. Most days I feel hopeless and empty.
+3. Even simple tasks drain all my energy.
+4. I have lost interest in everything, I feel like nothing matters.
+5. I feel like a failure and that I let everyone down.
+6. I can’t focus at all, everything seems blurry in my head.
+7. I feel physically sluggish all the time, like I’m weighed down.
+8. My appetite is all over the place; I either overeat or don’t eat at all.
+9. I can barely sleep at night, and when I do, I wake up frequently.","PHQ-9 Score: 17
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel a little more tired than usual, but I manage.
+2. No serious thoughts, just moments of feeling overwhelmed.
+3. At times I feel I could do better, but it's not overwhelming.
+4. I occasionally feel uninterested in activities I usually enjoy.
+5. Sometimes I feel down, but it doesn't last long.
+6. No serious thoughts, just moments of feeling overwhelmed.
+7. I occasionally feel uninterested in activities I usually enjoy.
+8. At times I feel I could do better, but it's not overwhelming.
+9. I have slight trouble falling asleep but not every night.","PHQ-9 Score: 5
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have thoughts about self-harm, but I don’t tell anyone.
+2. I can barely sleep at night, and when I do, I wake up frequently.
+3. I feel like a failure and that I let everyone down.
+4. I can barely sleep at night, and when I do, I wake up frequently.
+5. I feel like a failure and that I let everyone down.
+6. My appetite is all over the place; I either overeat or don’t eat at all.
+7. I feel like a failure and that I let everyone down.
+8. Most days I feel hopeless and empty.
+9. I feel physically sluggish all the time, like I’m weighed down.","PHQ-9 Score: 18
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel tired even after a full night's sleep.
+2. People say I seem slower in responding and doing things.
+3. I don’t enjoy activities like I used to, I force myself to do things.
+4. I feel like I am not good enough, and it bothers me a lot.
+5. I feel like I am not good enough, and it bothers me a lot.
+6. I sometimes think about disappearing, but I wouldn’t act on it.
+7. Feeling down most days, like nothing makes me happy anymore.
+8. I feel tired even after a full night's sleep.
+9. I feel like I am not good enough, and it bothers me a lot.","PHQ-9 Score: 10
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sleeping well, no major issues with rest.
+2. I can focus well on my studies without distractions.
+3. I feel confident in myself and my abilities.
+4. I feel confident in myself and my abilities.
+5. I feel fine and enjoy my hobbies as usual.
+6. Eating habits are normal, no major appetite changes.
+7. Sleeping well, no major issues with rest.
+8. I feel confident in myself and my abilities.
+9. Sleeping well, no major issues with rest.","PHQ-9 Score: 0
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Energy levels are good, I can do my daily tasks easily.
+2. No thoughts of self-harm or suicidal ideation.
+3. I feel fine and enjoy my hobbies as usual.
+4. I feel fine and enjoy my hobbies as usual.
+5. Eating habits are normal, no major appetite changes.
+6. No thoughts of self-harm or suicidal ideation.
+7. Energy levels are good, I can do my daily tasks easily.
+8. I can focus well on my studies without distractions.
+9. No noticeable change in movement or activity levels.","PHQ-9 Score: 1
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Eating habits are normal, no major appetite changes.
+2. Eating habits are normal, no major appetite changes.
+3. No noticeable change in movement or activity levels.
+4. Eating habits are normal, no major appetite changes.
+5. Eating habits are normal, no major appetite changes.
+6. No major changes in mood, I feel mostly okay.
+7. No major changes in mood, I feel mostly okay.
+8. No noticeable change in movement or activity levels.
+9. Sleeping well, no major issues with rest.","PHQ-9 Score: 2
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel physically sluggish all the time, like I’m weighed down.
+2. Most days I feel hopeless and empty.
+3. My appetite is all over the place; I either overeat or don’t eat at all.
+4. I can’t focus at all, everything seems blurry in my head.
+5. I can’t focus at all, everything seems blurry in my head.
+6. I have lost interest in everything, I feel like nothing matters.
+7. I can barely sleep at night, and when I do, I wake up frequently.
+8. I can barely sleep at night, and when I do, I wake up frequently.
+9. I can’t focus at all, everything seems blurry in my head.","PHQ-9 Score: 15
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t focus at all, everything seems blurry in my head.
+2. I feel physically sluggish all the time, like I’m weighed down.
+3. I feel like a failure and that I let everyone down.
+4. Most days I feel hopeless and empty.
+5. My appetite is all over the place; I either overeat or don’t eat at all.
+6. I feel like a failure and that I let everyone down.
+7. I feel physically sluggish all the time, like I’m weighed down.
+8. I have lost interest in everything, I feel like nothing matters.
+9. I feel physically sluggish all the time, like I’m weighed down.","PHQ-9 Score: 16
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I constantly feel like I am worthless and a burden to others.
+3. I constantly feel like I am worthless and a burden to others.
+4. I frequently think about ending everything, I don’t see a way out.
+5. I frequently think about ending everything, I don’t see a way out.
+6. I feel empty and disconnected from everything, like life is meaningless.
+7. I can’t concentrate at all, I feel like my brain is shutting down.
+8. I barely sleep at night, and when I do, nightmares wake me up.
+9. I have completely lost my appetite and have lost weight.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have completely lost my appetite and have lost weight.
+2. I have completely lost my appetite and have lost weight.
+3. I constantly feel like I am worthless and a burden to others.
+4. I have completely lost my appetite and have lost weight.
+5. I frequently think about ending everything, I don’t see a way out.
+6. I constantly feel like I am worthless and a burden to others.
+7. I feel empty and disconnected from everything, like life is meaningless.
+8. I have no motivation to do anything, I just stay in bed all day.
+9. I feel empty and disconnected from everything, like life is meaningless.","PHQ-9 Score: 24
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I am always exhausted, even talking feels like too much effort.
+2. I can’t concentrate at all, I feel like my brain is shutting down.
+3. I barely sleep at night, and when I do, nightmares wake me up.
+4. I frequently think about ending everything, I don’t see a way out.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I feel empty and disconnected from everything, like life is meaningless.
+7. People tell me I seem lifeless or that I barely move anymore.
+8. I frequently think about ending everything, I don’t see a way out.
+9. I have completely lost my appetite and have lost weight.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have completely lost my appetite and have lost weight.
+2. I am always exhausted, even talking feels like too much effort.
+3. People tell me I seem lifeless or that I barely move anymore.
+4. I barely sleep at night, and when I do, nightmares wake me up.
+5. I feel empty and disconnected from everything, like life is meaningless.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. I can’t concentrate at all, I feel like my brain is shutting down.
+8. I am always exhausted, even talking feels like too much effort.
+9. I have no motivation to do anything, I just stay in bed all day.","PHQ-9 Score: 20
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I am always exhausted, even talking feels like too much effort.
+2. I barely sleep at night, and when I do, nightmares wake me up.
+3. I barely sleep at night, and when I do, nightmares wake me up.
+4. I have no motivation to do anything, I just stay in bed all day.
+5. I have no motivation to do anything, I just stay in bed all day.
+6. I feel empty and disconnected from everything, like life is meaningless.
+7. I have completely lost my appetite and have lost weight.
+8. I barely sleep at night, and when I do, nightmares wake me up.
+9. I have no motivation to do anything, I just stay in bed all day.","PHQ-9 Score: 24
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have no motivation to do anything, I just stay in bed all day.
+2. I can’t concentrate at all, I feel like my brain is shutting down.
+3. I barely sleep at night, and when I do, nightmares wake me up.
+4. I feel empty and disconnected from everything, like life is meaningless.
+5. I am always exhausted, even talking feels like too much effort.
+6. I feel empty and disconnected from everything, like life is meaningless.
+7. I barely sleep at night, and when I do, nightmares wake me up.
+8. I have no motivation to do anything, I just stay in bed all day.
+9. People tell me I seem lifeless or that I barely move anymore.","PHQ-9 Score: 21
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I am always exhausted, even talking feels like too much effort.
+3. I constantly feel like I am worthless and a burden to others.
+4. I have completely lost my appetite and have lost weight.
+5. I am always exhausted, even talking feels like too much effort.
+6. I can’t concentrate at all, I feel like my brain is shutting down.
+7. I constantly feel like I am worthless and a burden to others.
+8. I can’t concentrate at all, I feel like my brain is shutting down.
+9. I barely sleep at night, and when I do, nightmares wake me up.","PHQ-9 Score: 26
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No noticeable change in movement or activity levels.
+2. Energy levels are good, I can do my daily tasks easily.
+3. Energy levels are good, I can do my daily tasks easily.
+4. Sleeping well, no major issues with rest.
+5. I feel confident in myself and my abilities.
+6. No noticeable change in movement or activity levels.
+7. I feel confident in myself and my abilities.
+8. Sleeping well, no major issues with rest.
+9. Energy levels are good, I can do my daily tasks easily.","PHQ-9 Score: 2
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. People say I seem slower in responding and doing things.
+2. I struggle to concentrate on my assignments and lose track easily.
+3. I feel like I am not good enough, and it bothers me a lot.
+4. I feel tired even after a full night's sleep.
+5. I sometimes think about disappearing, but I wouldn’t act on it.
+6. Feeling down most days, like nothing makes me happy anymore.
+7. I struggle to concentrate on my assignments and lose track easily.
+8. I struggle to concentrate on my assignments and lose track easily.
+9. I feel like I am not good enough, and it bothers me a lot.","PHQ-9 Score: 14
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I don’t enjoy activities like I used to, I force myself to do things.
+2. My eating habits have changed significantly, sometimes I skip meals.
+3. People say I seem slower in responding and doing things.
+4. I sometimes think about disappearing, but I wouldn’t act on it.
+5. Feeling down most days, like nothing makes me happy anymore.
+6. I feel tired even after a full night's sleep.
+7. I struggle to concentrate on my assignments and lose track easily.
+8. My eating habits have changed significantly, sometimes I skip meals.
+9. Feeling down most days, like nothing makes me happy anymore.","PHQ-9 Score: 14
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No serious thoughts, just moments of feeling overwhelmed.
+2. I occasionally feel uninterested in activities I usually enjoy.
+3. I fidget a little more than usual, but nothing extreme.
+4. I have slight trouble falling asleep but not every night.
+5. I fidget a little more than usual, but nothing extreme.
+6. My appetite fluctuates, but nothing drastic.
+7. At times I feel I could do better, but it's not overwhelming.
+8. No serious thoughts, just moments of feeling overwhelmed.
+9. I feel a little more tired than usual, but I manage.","PHQ-9 Score: 5
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I sometimes think about disappearing, but I wouldn’t act on it.
+2. I feel tired even after a full night's sleep.
+3. My eating habits have changed significantly, sometimes I skip meals.
+4. I sometimes think about disappearing, but I wouldn’t act on it.
+5. My eating habits have changed significantly, sometimes I skip meals.
+6. I struggle to concentrate on my assignments and lose track easily.
+7. I feel tired even after a full night's sleep.
+8. I struggle to concentrate on my assignments and lose track easily.
+9. I don’t enjoy activities like I used to, I force myself to do things.","PHQ-9 Score: 12
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sleeping has become inconsistent, I either sleep too much or too little.
+2. I sometimes think about disappearing, but I wouldn’t act on it.
+3. I sometimes think about disappearing, but I wouldn’t act on it.
+4. I sometimes think about disappearing, but I wouldn’t act on it.
+5. Sleeping has become inconsistent, I either sleep too much or too little.
+6. I feel tired even after a full night's sleep.
+7. I feel like I am not good enough, and it bothers me a lot.
+8. I struggle to concentrate on my assignments and lose track easily.
+9. People say I seem slower in responding and doing things.","PHQ-9 Score: 14
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite is all over the place; I either overeat or don’t eat at all.
+2. Most days I feel hopeless and empty.
+3. Even simple tasks drain all my energy.
+4. I have thoughts about self-harm, but I don’t tell anyone.
+5. I have thoughts about self-harm, but I don’t tell anyone.
+6. Even simple tasks drain all my energy.
+7. My appetite is all over the place; I either overeat or don’t eat at all.
+8. I have lost interest in everything, I feel like nothing matters.
+9. I have lost interest in everything, I feel like nothing matters.","PHQ-9 Score: 19
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can focus well on my studies without distractions.
+2. No noticeable change in movement or activity levels.
+3. Eating habits are normal, no major appetite changes.
+4. No thoughts of self-harm or suicidal ideation.
+5. No noticeable change in movement or activity levels.
+6. I feel fine and enjoy my hobbies as usual.
+7. Energy levels are good, I can do my daily tasks easily.
+8. Eating habits are normal, no major appetite changes.
+9. No thoughts of self-harm or suicidal ideation.","PHQ-9 Score: 0
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel fine and enjoy my hobbies as usual.
+2. Sleeping well, no major issues with rest.
+3. No major changes in mood, I feel mostly okay.
+4. No thoughts of self-harm or suicidal ideation.
+5. Eating habits are normal, no major appetite changes.
+6. I feel confident in myself and my abilities.
+7. Eating habits are normal, no major appetite changes.
+8. No major changes in mood, I feel mostly okay.
+9. Energy levels are good, I can do my daily tasks easily.","PHQ-9 Score: 4
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel like a failure and that I let everyone down.
+2. I can’t focus at all, everything seems blurry in my head.
+3. Most days I feel hopeless and empty.
+4. Even simple tasks drain all my energy.
+5. My appetite is all over the place; I either overeat or don’t eat at all.
+6. I feel physically sluggish all the time, like I’m weighed down.
+7. My appetite is all over the place; I either overeat or don’t eat at all.
+8. I can barely sleep at night, and when I do, I wake up frequently.
+9. I feel like a failure and that I let everyone down.","PHQ-9 Score: 15
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can barely sleep at night, and when I do, I wake up frequently.
+2. Most days I feel hopeless and empty.
+3. My appetite is all over the place; I either overeat or don’t eat at all.
+4. I have lost interest in everything, I feel like nothing matters.
+5. I feel physically sluggish all the time, like I’m weighed down.
+6. I have lost interest in everything, I feel like nothing matters.
+7. I feel like a failure and that I let everyone down.
+8. I can barely sleep at night, and when I do, I wake up frequently.
+9. I can barely sleep at night, and when I do, I wake up frequently.","PHQ-9 Score: 16
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I have no motivation to do anything, I just stay in bed all day.
+3. I have completely lost my appetite and have lost weight.
+4. I am always exhausted, even talking feels like too much effort.
+5. I frequently think about ending everything, I don’t see a way out.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. I am always exhausted, even talking feels like too much effort.
+8. I constantly feel like I am worthless and a burden to others.
+9. I feel empty and disconnected from everything, like life is meaningless.","PHQ-9 Score: 23
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have completely lost my appetite and have lost weight.
+2. I have completely lost my appetite and have lost weight.
+3. I have no motivation to do anything, I just stay in bed all day.
+4. I have completely lost my appetite and have lost weight.
+5. I frequently think about ending everything, I don’t see a way out.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. I constantly feel like I am worthless and a burden to others.
+8. I can’t concentrate at all, I feel like my brain is shutting down.
+9. I am always exhausted, even talking feels like too much effort.","PHQ-9 Score: 24
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can barely sleep at night, and when I do, I wake up frequently.
+2. Most days I feel hopeless and empty.
+3. Even simple tasks drain all my energy.
+4. I have lost interest in everything, I feel like nothing matters.
+5. My appetite is all over the place; I either overeat or don’t eat at all.
+6. Most days I feel hopeless and empty.
+7. I can barely sleep at night, and when I do, I wake up frequently.
+8. I have lost interest in everything, I feel like nothing matters.
+9. I can’t focus at all, everything seems blurry in my head.","PHQ-9 Score: 16
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I struggle to concentrate on my assignments and lose track easily.
+2. I struggle to concentrate on my assignments and lose track easily.
+3. I feel tired even after a full night's sleep.
+4. My eating habits have changed significantly, sometimes I skip meals.
+5. Sleeping has become inconsistent, I either sleep too much or too little.
+6. I sometimes think about disappearing, but I wouldn’t act on it.
+7. I feel like I am not good enough, and it bothers me a lot.
+8. I don’t enjoy activities like I used to, I force myself to do things.
+9. Sleeping has become inconsistent, I either sleep too much or too little.","PHQ-9 Score: 11
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I feel empty and disconnected from everything, like life is meaningless.
+3. I constantly feel like I am worthless and a burden to others.
+4. I am always exhausted, even talking feels like too much effort.
+5. I feel empty and disconnected from everything, like life is meaningless.
+6. I barely sleep at night, and when I do, nightmares wake me up.
+7. I frequently think about ending everything, I don’t see a way out.
+8. I am always exhausted, even talking feels like too much effort.
+9. I frequently think about ending everything, I don’t see a way out.","PHQ-9 Score: 20
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Even simple tasks drain all my energy.
+2. I have lost interest in everything, I feel like nothing matters.
+3. Most days I feel hopeless and empty.
+4. Most days I feel hopeless and empty.
+5. Most days I feel hopeless and empty.
+6. Most days I feel hopeless and empty.
+7. I feel like a failure and that I let everyone down.
+8. My appetite is all over the place; I either overeat or don’t eat at all.
+9. I can’t focus at all, everything seems blurry in my head.","PHQ-9 Score: 19
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. At times I feel I could do better, but it's not overwhelming.
+2. I occasionally feel uninterested in activities I usually enjoy.
+3. I feel a little more tired than usual, but I manage.
+4. I feel a little more tired than usual, but I manage.
+5. I occasionally feel uninterested in activities I usually enjoy.
+6. I have slight trouble falling asleep but not every night.
+7. I get distracted easily but can regain focus quickly.
+8. Sometimes I feel down, but it doesn't last long.
+9. My appetite fluctuates, but nothing drastic.","PHQ-9 Score: 7
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sometimes I feel down, but it doesn't last long.
+2. I get distracted easily but can regain focus quickly.
+3. I have slight trouble falling asleep but not every night.
+4. I fidget a little more than usual, but nothing extreme.
+5. I fidget a little more than usual, but nothing extreme.
+6. I occasionally feel uninterested in activities I usually enjoy.
+7. I fidget a little more than usual, but nothing extreme.
+8. I have slight trouble falling asleep but not every night.
+9. I occasionally feel uninterested in activities I usually enjoy.","PHQ-9 Score: 8
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I sometimes think about disappearing, but I wouldn’t act on it.
+2. Feeling down most days, like nothing makes me happy anymore.
+3. I sometimes think about disappearing, but I wouldn’t act on it.
+4. My eating habits have changed significantly, sometimes I skip meals.
+5. Sleeping has become inconsistent, I either sleep too much or too little.
+6. I don’t enjoy activities like I used to, I force myself to do things.
+7. I feel like I am not good enough, and it bothers me a lot.
+8. My eating habits have changed significantly, sometimes I skip meals.
+9. I don’t enjoy activities like I used to, I force myself to do things.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I occasionally feel uninterested in activities I usually enjoy.
+2. I have slight trouble falling asleep but not every night.
+3. No serious thoughts, just moments of feeling overwhelmed.
+4. At times I feel I could do better, but it's not overwhelming.
+5. I occasionally feel uninterested in activities I usually enjoy.
+6. I occasionally feel uninterested in activities I usually enjoy.
+7. Sometimes I feel down, but it doesn't last long.
+8. I get distracted easily but can regain focus quickly.
+9. My appetite fluctuates, but nothing drastic.","PHQ-9 Score: 7
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite fluctuates, but nothing drastic.
+2. I occasionally feel uninterested in activities I usually enjoy.
+3. I feel a little more tired than usual, but I manage.
+4. I occasionally feel uninterested in activities I usually enjoy.
+5. I occasionally feel uninterested in activities I usually enjoy.
+6. My appetite fluctuates, but nothing drastic.
+7. I get distracted easily but can regain focus quickly.
+8. I have slight trouble falling asleep but not every night.
+9. I fidget a little more than usual, but nothing extreme.","PHQ-9 Score: 5
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have thoughts about self-harm, but I don’t tell anyone.
+2. I feel like a failure and that I let everyone down.
+3. I feel like a failure and that I let everyone down.
+4. I feel like a failure and that I let everyone down.
+5. I can’t focus at all, everything seems blurry in my head.
+6. I feel like a failure and that I let everyone down.
+7. I can barely sleep at night, and when I do, I wake up frequently.
+8. Most days I feel hopeless and empty.
+9. I have thoughts about self-harm, but I don’t tell anyone.","PHQ-9 Score: 17
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. At times I feel I could do better, but it's not overwhelming.
+2. Sometimes I feel down, but it doesn't last long.
+3. I feel a little more tired than usual, but I manage.
+4. At times I feel I could do better, but it's not overwhelming.
+5. I have slight trouble falling asleep but not every night.
+6. Sometimes I feel down, but it doesn't last long.
+7. At times I feel I could do better, but it's not overwhelming.
+8. At times I feel I could do better, but it's not overwhelming.
+9. My appetite fluctuates, but nothing drastic.","PHQ-9 Score: 6
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. People tell me I seem lifeless or that I barely move anymore.
+2. People tell me I seem lifeless or that I barely move anymore.
+3. I am always exhausted, even talking feels like too much effort.
+4. I constantly feel like I am worthless and a burden to others.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I have no motivation to do anything, I just stay in bed all day.
+7. I am always exhausted, even talking feels like too much effort.
+8. I have completely lost my appetite and have lost weight.
+9. I have completely lost my appetite and have lost weight.","PHQ-9 Score: 26
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I barely sleep at night, and when I do, nightmares wake me up.
+2. I am always exhausted, even talking feels like too much effort.
+3. I can’t concentrate at all, I feel like my brain is shutting down.
+4. I barely sleep at night, and when I do, nightmares wake me up.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I have no motivation to do anything, I just stay in bed all day.
+7. I am always exhausted, even talking feels like too much effort.
+8. I am always exhausted, even talking feels like too much effort.
+9. People tell me I seem lifeless or that I barely move anymore.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I sometimes think about disappearing, but I wouldn’t act on it.
+2. I don’t enjoy activities like I used to, I force myself to do things.
+3. I feel tired even after a full night's sleep.
+4. Feeling down most days, like nothing makes me happy anymore.
+5. I don’t enjoy activities like I used to, I force myself to do things.
+6. I struggle to concentrate on my assignments and lose track easily.
+7. I feel tired even after a full night's sleep.
+8. People say I seem slower in responding and doing things.
+9. Sleeping has become inconsistent, I either sleep too much or too little.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sleeping has become inconsistent, I either sleep too much or too little.
+2. I feel tired even after a full night's sleep.
+3. I feel tired even after a full night's sleep.
+4. My eating habits have changed significantly, sometimes I skip meals.
+5. Sleeping has become inconsistent, I either sleep too much or too little.
+6. My eating habits have changed significantly, sometimes I skip meals.
+7. I feel tired even after a full night's sleep.
+8. I feel tired even after a full night's sleep.
+9. Sleeping has become inconsistent, I either sleep too much or too little.","PHQ-9 Score: 14
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No thoughts of self-harm or suicidal ideation.
+2. No major changes in mood, I feel mostly okay.
+3. I feel confident in myself and my abilities.
+4. I feel fine and enjoy my hobbies as usual.
+5. I feel fine and enjoy my hobbies as usual.
+6. Sleeping well, no major issues with rest.
+7. I can focus well on my studies without distractions.
+8. No thoughts of self-harm or suicidal ideation.
+9. No noticeable change in movement or activity levels.","PHQ-9 Score: 2
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My eating habits have changed significantly, sometimes I skip meals.
+2. I don’t enjoy activities like I used to, I force myself to do things.
+3. I sometimes think about disappearing, but I wouldn’t act on it.
+4. People say I seem slower in responding and doing things.
+5. Sleeping has become inconsistent, I either sleep too much or too little.
+6. I struggle to concentrate on my assignments and lose track easily.
+7. I don’t enjoy activities like I used to, I force myself to do things.
+8. Sleeping has become inconsistent, I either sleep too much or too little.
+9. I sometimes think about disappearing, but I wouldn’t act on it.","PHQ-9 Score: 11
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I constantly feel like I am worthless and a burden to others.
+2. I have no motivation to do anything, I just stay in bed all day.
+3. I feel empty and disconnected from everything, like life is meaningless.
+4. I constantly feel like I am worthless and a burden to others.
+5. I am always exhausted, even talking feels like too much effort.
+6. I can’t concentrate at all, I feel like my brain is shutting down.
+7. I feel empty and disconnected from everything, like life is meaningless.
+8. I have no motivation to do anything, I just stay in bed all day.
+9. I constantly feel like I am worthless and a burden to others.","PHQ-9 Score: 23
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel a little more tired than usual, but I manage.
+2. I get distracted easily but can regain focus quickly.
+3. I feel a little more tired than usual, but I manage.
+4. My appetite fluctuates, but nothing drastic.
+5. I feel a little more tired than usual, but I manage.
+6. I occasionally feel uninterested in activities I usually enjoy.
+7. No serious thoughts, just moments of feeling overwhelmed.
+8. At times I feel I could do better, but it's not overwhelming.
+9. At times I feel I could do better, but it's not overwhelming.","PHQ-9 Score: 9
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel like a failure and that I let everyone down.
+2. I feel physically sluggish all the time, like I’m weighed down.
+3. My appetite is all over the place; I either overeat or don’t eat at all.
+4. Even simple tasks drain all my energy.
+5. I can’t focus at all, everything seems blurry in my head.
+6. I have lost interest in everything, I feel like nothing matters.
+7. I have thoughts about self-harm, but I don’t tell anyone.
+8. My appetite is all over the place; I either overeat or don’t eat at all.
+9. I have thoughts about self-harm, but I don’t tell anyone.","PHQ-9 Score: 17
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I fidget a little more than usual, but nothing extreme.
+2. Sometimes I feel down, but it doesn't last long.
+3. I occasionally feel uninterested in activities I usually enjoy.
+4. My appetite fluctuates, but nothing drastic.
+5. I have slight trouble falling asleep but not every night.
+6. I feel a little more tired than usual, but I manage.
+7. I get distracted easily but can regain focus quickly.
+8. I occasionally feel uninterested in activities I usually enjoy.
+9. Sometimes I feel down, but it doesn't last long.","PHQ-9 Score: 9
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel fine and enjoy my hobbies as usual.
+2. Energy levels are good, I can do my daily tasks easily.
+3. Energy levels are good, I can do my daily tasks easily.
+4. No major changes in mood, I feel mostly okay.
+5. Eating habits are normal, no major appetite changes.
+6. I feel confident in myself and my abilities.
+7. Sleeping well, no major issues with rest.
+8. I feel confident in myself and my abilities.
+9. I can focus well on my studies without distractions.","PHQ-9 Score: 0
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel empty and disconnected from everything, like life is meaningless.
+2. I can’t concentrate at all, I feel like my brain is shutting down.
+3. I constantly feel like I am worthless and a burden to others.
+4. I have completely lost my appetite and have lost weight.
+5. I have completely lost my appetite and have lost weight.
+6. I have completely lost my appetite and have lost weight.
+7. I constantly feel like I am worthless and a burden to others.
+8. I frequently think about ending everything, I don’t see a way out.
+9. I can’t concentrate at all, I feel like my brain is shutting down.","PHQ-9 Score: 26
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite is all over the place; I either overeat or don’t eat at all.
+2. My appetite is all over the place; I either overeat or don’t eat at all.
+3. Most days I feel hopeless and empty.
+4. I can barely sleep at night, and when I do, I wake up frequently.
+5. I feel physically sluggish all the time, like I’m weighed down.
+6. I can barely sleep at night, and when I do, I wake up frequently.
+7. I feel physically sluggish all the time, like I’m weighed down.
+8. I have lost interest in everything, I feel like nothing matters.
+9. Even simple tasks drain all my energy.","PHQ-9 Score: 18
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have no motivation to do anything, I just stay in bed all day.
+2. I have no motivation to do anything, I just stay in bed all day.
+3. I barely sleep at night, and when I do, nightmares wake me up.
+4. I barely sleep at night, and when I do, nightmares wake me up.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. People tell me I seem lifeless or that I barely move anymore.
+7. I am always exhausted, even talking feels like too much effort.
+8. People tell me I seem lifeless or that I barely move anymore.
+9. I frequently think about ending everything, I don’t see a way out.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sleeping has become inconsistent, I either sleep too much or too little.
+2. People say I seem slower in responding and doing things.
+3. I sometimes think about disappearing, but I wouldn’t act on it.
+4. Sleeping has become inconsistent, I either sleep too much or too little.
+5. I feel like I am not good enough, and it bothers me a lot.
+6. I struggle to concentrate on my assignments and lose track easily.
+7. My eating habits have changed significantly, sometimes I skip meals.
+8. Sleeping has become inconsistent, I either sleep too much or too little.
+9. I feel tired even after a full night's sleep.","PHQ-9 Score: 14
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite fluctuates, but nothing drastic.
+2. No serious thoughts, just moments of feeling overwhelmed.
+3. I fidget a little more than usual, but nothing extreme.
+4. I have slight trouble falling asleep but not every night.
+5. I have slight trouble falling asleep but not every night.
+6. I feel a little more tired than usual, but I manage.
+7. I have slight trouble falling asleep but not every night.
+8. I have slight trouble falling asleep but not every night.
+9. I have slight trouble falling asleep but not every night.","PHQ-9 Score: 9
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel like I am not good enough, and it bothers me a lot.
+2. I sometimes think about disappearing, but I wouldn’t act on it.
+3. My eating habits have changed significantly, sometimes I skip meals.
+4. My eating habits have changed significantly, sometimes I skip meals.
+5. Feeling down most days, like nothing makes me happy anymore.
+6. My eating habits have changed significantly, sometimes I skip meals.
+7. Sleeping has become inconsistent, I either sleep too much or too little.
+8. I don’t enjoy activities like I used to, I force myself to do things.
+9. Sleeping has become inconsistent, I either sleep too much or too little.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. At times I feel I could do better, but it's not overwhelming.
+2. Sometimes I feel down, but it doesn't last long.
+3. I get distracted easily but can regain focus quickly.
+4. No serious thoughts, just moments of feeling overwhelmed.
+5. I get distracted easily but can regain focus quickly.
+6. At times I feel I could do better, but it's not overwhelming.
+7. My appetite fluctuates, but nothing drastic.
+8. I get distracted easily but can regain focus quickly.
+9. I get distracted easily but can regain focus quickly.","PHQ-9 Score: 8
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have completely lost my appetite and have lost weight.
+2. I constantly feel like I am worthless and a burden to others.
+3. I have completely lost my appetite and have lost weight.
+4. I constantly feel like I am worthless and a burden to others.
+5. I constantly feel like I am worthless and a burden to others.
+6. I am always exhausted, even talking feels like too much effort.
+7. I have completely lost my appetite and have lost weight.
+8. I constantly feel like I am worthless and a burden to others.
+9. I barely sleep at night, and when I do, nightmares wake me up.","PHQ-9 Score: 24
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Feeling down most days, like nothing makes me happy anymore.
+2. I struggle to concentrate on my assignments and lose track easily.
+3. I sometimes think about disappearing, but I wouldn’t act on it.
+4. I don’t enjoy activities like I used to, I force myself to do things.
+5. I feel like I am not good enough, and it bothers me a lot.
+6. I struggle to concentrate on my assignments and lose track easily.
+7. My eating habits have changed significantly, sometimes I skip meals.
+8. I struggle to concentrate on my assignments and lose track easily.
+9. I feel like I am not good enough, and it bothers me a lot.","PHQ-9 Score: 12
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t focus at all, everything seems blurry in my head.
+2. I feel physically sluggish all the time, like I’m weighed down.
+3. I feel physically sluggish all the time, like I’m weighed down.
+4. Even simple tasks drain all my energy.
+5. I have lost interest in everything, I feel like nothing matters.
+6. I have lost interest in everything, I feel like nothing matters.
+7. I have lost interest in everything, I feel like nothing matters.
+8. I feel physically sluggish all the time, like I’m weighed down.
+9. I have lost interest in everything, I feel like nothing matters.","PHQ-9 Score: 19
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. At times I feel I could do better, but it's not overwhelming.
+2. I have slight trouble falling asleep but not every night.
+3. Sometimes I feel down, but it doesn't last long.
+4. I have slight trouble falling asleep but not every night.
+5. No serious thoughts, just moments of feeling overwhelmed.
+6. I fidget a little more than usual, but nothing extreme.
+7. My appetite fluctuates, but nothing drastic.
+8. I have slight trouble falling asleep but not every night.
+9. Sometimes I feel down, but it doesn't last long.","PHQ-9 Score: 6
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Feeling down most days, like nothing makes me happy anymore.
+2. I feel tired even after a full night's sleep.
+3. Sleeping has become inconsistent, I either sleep too much or too little.
+4. Sleeping has become inconsistent, I either sleep too much or too little.
+5. I feel tired even after a full night's sleep.
+6. I feel tired even after a full night's sleep.
+7. Sleeping has become inconsistent, I either sleep too much or too little.
+8. Feeling down most days, like nothing makes me happy anymore.
+9. Feeling down most days, like nothing makes me happy anymore.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I don’t enjoy activities like I used to, I force myself to do things.
+2. I struggle to concentrate on my assignments and lose track easily.
+3. Feeling down most days, like nothing makes me happy anymore.
+4. I sometimes think about disappearing, but I wouldn’t act on it.
+5. People say I seem slower in responding and doing things.
+6. Feeling down most days, like nothing makes me happy anymore.
+7. Sleeping has become inconsistent, I either sleep too much or too little.
+8. People say I seem slower in responding and doing things.
+9. Feeling down most days, like nothing makes me happy anymore.","PHQ-9 Score: 12
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel physically sluggish all the time, like I’m weighed down.
+2. I feel physically sluggish all the time, like I’m weighed down.
+3. Even simple tasks drain all my energy.
+4. I can’t focus at all, everything seems blurry in my head.
+5. I feel like a failure and that I let everyone down.
+6. I have thoughts about self-harm, but I don’t tell anyone.
+7. My appetite is all over the place; I either overeat or don’t eat at all.
+8. I have lost interest in everything, I feel like nothing matters.
+9. I feel like a failure and that I let everyone down.","PHQ-9 Score: 18
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My appetite is all over the place; I either overeat or don’t eat at all.
+2. I have lost interest in everything, I feel like nothing matters.
+3. I can’t focus at all, everything seems blurry in my head.
+4. I can barely sleep at night, and when I do, I wake up frequently.
+5. I can barely sleep at night, and when I do, I wake up frequently.
+6. My appetite is all over the place; I either overeat or don’t eat at all.
+7. I have lost interest in everything, I feel like nothing matters.
+8. I have thoughts about self-harm, but I don’t tell anyone.
+9. My appetite is all over the place; I either overeat or don’t eat at all.","PHQ-9 Score: 16
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. My eating habits have changed significantly, sometimes I skip meals.
+2. Feeling down most days, like nothing makes me happy anymore.
+3. People say I seem slower in responding and doing things.
+4. I feel like I am not good enough, and it bothers me a lot.
+5. Feeling down most days, like nothing makes me happy anymore.
+6. I sometimes think about disappearing, but I wouldn’t act on it.
+7. Feeling down most days, like nothing makes me happy anymore.
+8. I feel tired even after a full night's sleep.
+9. I feel like I am not good enough, and it bothers me a lot.","PHQ-9 Score: 13
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel empty and disconnected from everything, like life is meaningless.
+2. People tell me I seem lifeless or that I barely move anymore.
+3. I can’t concentrate at all, I feel like my brain is shutting down.
+4. I frequently think about ending everything, I don’t see a way out.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I constantly feel like I am worthless and a burden to others.
+7. I am always exhausted, even talking feels like too much effort.
+8. I frequently think about ending everything, I don’t see a way out.
+9. I have no motivation to do anything, I just stay in bed all day.","PHQ-9 Score: 25
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have lost interest in everything, I feel like nothing matters.
+2. I feel physically sluggish all the time, like I’m weighed down.
+3. I have thoughts about self-harm, but I don’t tell anyone.
+4. Even simple tasks drain all my energy.
+5. I have thoughts about self-harm, but I don’t tell anyone.
+6. I can barely sleep at night, and when I do, I wake up frequently.
+7. I feel physically sluggish all the time, like I’m weighed down.
+8. I can barely sleep at night, and when I do, I wake up frequently.
+9. I have thoughts about self-harm, but I don’t tell anyone.","PHQ-9 Score: 17
+Depression Level: Moderately Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I am always exhausted, even talking feels like too much effort.
+2. I barely sleep at night, and when I do, nightmares wake me up.
+3. I feel empty and disconnected from everything, like life is meaningless.
+4. I feel empty and disconnected from everything, like life is meaningless.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I frequently think about ending everything, I don’t see a way out.
+7. I feel empty and disconnected from everything, like life is meaningless.
+8. I have completely lost my appetite and have lost weight.
+9. I am always exhausted, even talking feels like too much effort.","PHQ-9 Score: 22
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I occasionally feel uninterested in activities I usually enjoy.
+2. I have slight trouble falling asleep but not every night.
+3. I feel a little more tired than usual, but I manage.
+4. I occasionally feel uninterested in activities I usually enjoy.
+5. I get distracted easily but can regain focus quickly.
+6. I occasionally feel uninterested in activities I usually enjoy.
+7. I occasionally feel uninterested in activities I usually enjoy.
+8. I feel a little more tired than usual, but I manage.
+9. No serious thoughts, just moments of feeling overwhelmed.","PHQ-9 Score: 5
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. Sleeping has become inconsistent, I either sleep too much or too little.
+2. My eating habits have changed significantly, sometimes I skip meals.
+3. I don’t enjoy activities like I used to, I force myself to do things.
+4. I don’t enjoy activities like I used to, I force myself to do things.
+5. I struggle to concentrate on my assignments and lose track easily.
+6. I feel like I am not good enough, and it bothers me a lot.
+7. Feeling down most days, like nothing makes me happy anymore.
+8. I sometimes think about disappearing, but I wouldn’t act on it.
+9. Sleeping has become inconsistent, I either sleep too much or too little.","PHQ-9 Score: 12
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I struggle to concentrate on my assignments and lose track easily.
+2. Sleeping has become inconsistent, I either sleep too much or too little.
+3. My eating habits have changed significantly, sometimes I skip meals.
+4. People say I seem slower in responding and doing things.
+5. I feel like I am not good enough, and it bothers me a lot.
+6. I struggle to concentrate on my assignments and lose track easily.
+7. Feeling down most days, like nothing makes me happy anymore.
+8. I don’t enjoy activities like I used to, I force myself to do things.
+9. I sometimes think about disappearing, but I wouldn’t act on it.","PHQ-9 Score: 11
+Depression Level: Moderate"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No major changes in mood, I feel mostly okay.
+2. No noticeable change in movement or activity levels.
+3. I feel fine and enjoy my hobbies as usual.
+4. I feel fine and enjoy my hobbies as usual.
+5. No noticeable change in movement or activity levels.
+6. No major changes in mood, I feel mostly okay.
+7. No noticeable change in movement or activity levels.
+8. Sleeping well, no major issues with rest.
+9. No major changes in mood, I feel mostly okay.","PHQ-9 Score: 1
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I can’t concentrate at all, I feel like my brain is shutting down.
+2. I frequently think about ending everything, I don’t see a way out.
+3. I feel empty and disconnected from everything, like life is meaningless.
+4. I constantly feel like I am worthless and a burden to others.
+5. I am always exhausted, even talking feels like too much effort.
+6. I can’t concentrate at all, I feel like my brain is shutting down.
+7. People tell me I seem lifeless or that I barely move anymore.
+8. I can’t concentrate at all, I feel like my brain is shutting down.
+9. I constantly feel like I am worthless and a burden to others.","PHQ-9 Score: 20
+Depression Level: Severe"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I get distracted easily but can regain focus quickly.
+2. I get distracted easily but can regain focus quickly.
+3. No serious thoughts, just moments of feeling overwhelmed.
+4. Sometimes I feel down, but it doesn't last long.
+5. At times I feel I could do better, but it's not overwhelming.
+6. I occasionally feel uninterested in activities I usually enjoy.
+7. At times I feel I could do better, but it's not overwhelming.
+8. I fidget a little more than usual, but nothing extreme.
+9. At times I feel I could do better, but it's not overwhelming.","PHQ-9 Score: 9
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel a little more tired than usual, but I manage.
+2. I fidget a little more than usual, but nothing extreme.
+3. I fidget a little more than usual, but nothing extreme.
+4. I feel a little more tired than usual, but I manage.
+5. I feel a little more tired than usual, but I manage.
+6. Sometimes I feel down, but it doesn't last long.
+7. I occasionally feel uninterested in activities I usually enjoy.
+8. I fidget a little more than usual, but nothing extreme.
+9. No serious thoughts, just moments of feeling overwhelmed.","PHQ-9 Score: 8
+Depression Level: Mild"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. No thoughts of self-harm or suicidal ideation.
+2. No noticeable change in movement or activity levels.
+3. I can focus well on my studies without distractions.
+4. No thoughts of self-harm or suicidal ideation.
+5. No major changes in mood, I feel mostly okay.
+6. No major changes in mood, I feel mostly okay.
+7. No thoughts of self-harm or suicidal ideation.
+8. Sleeping well, no major issues with rest.
+9. Eating habits are normal, no major appetite changes.","PHQ-9 Score: 1
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I feel confident in myself and my abilities.
+2. No thoughts of self-harm or suicidal ideation.
+3. Energy levels are good, I can do my daily tasks easily.
+4. I feel confident in myself and my abilities.
+5. Eating habits are normal, no major appetite changes.
+6. Eating habits are normal, no major appetite changes.
+7. I feel fine and enjoy my hobbies as usual.
+8. Eating habits are normal, no major appetite changes.
+9. No thoughts of self-harm or suicidal ideation.","PHQ-9 Score: 0
+Depression Level: Minimal"
+Analyze the following PHQ-9 responses and provide the score and depression level.,"1. I have no motivation to do anything, I just stay in bed all day.
+2. I am always exhausted, even talking feels like too much effort.
+3. I constantly feel like I am worthless and a burden to others.
+4. I can’t concentrate at all, I feel like my brain is shutting down.
+5. People tell me I seem lifeless or that I barely move anymore.
+6. I have completely lost my appetite and have lost weight.
+7. People tell me I seem lifeless or that I barely move anymore.
+8. I feel empty and disconnected from everything, like life is meaningless.
+9. I have no motivation to do anything, I just stay in bed all day.","PHQ-9 Score: 20
+Depression Level: Severe"
