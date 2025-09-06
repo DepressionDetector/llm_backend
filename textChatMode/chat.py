@@ -5,7 +5,6 @@ from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_mongodb import MongoDBAtlasVectorSearch
 from difflib import SequenceMatcher
 from utils.phq9_questions import PHQ9_QUESTIONS
-from utils.tts import generate_tts_audio 
 import key_param
 from fastapi.responses import FileResponse
 
@@ -35,8 +34,10 @@ from difflib import SequenceMatcher
 
 #     return { "summary": response.content.strip() }
 
+
 class SummaryRequest(BaseModel):
     history: str
+
 
 @router.post("/summarize")
 async def summarize_chat(data: SummaryRequest):
@@ -61,6 +62,7 @@ class QueryRequest(BaseModel):
     history: str
     summaries: list[str] = []
     asked_phq_ids: list[int] = []
+
 
 @router.post("/ask")
 async def ask_question(data: QueryRequest):
@@ -158,16 +160,9 @@ Now reply like a kind friend:
 
     matched_q = next_phq_q if not early_stage else None
 
-
-    audio_path = generate_tts_audio(final_text)
-
     return {
         "response": final_text,
-        "audio_url": f"/voice-audio?path={audio_path}",  
         "phq9_questionID": matched_q["id"] if matched_q else None,
         "phq9_question": matched_q["question"] if matched_q else None
     }
     
-@router.get("/voice-audio")
-def voice_audio(path: str):
-    return FileResponse(path, media_type="audio/mpeg", filename="bot_reply.mp3")      
