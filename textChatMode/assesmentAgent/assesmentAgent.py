@@ -7,7 +7,6 @@ from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_mongodb import MongoDBAtlasVectorSearch
 
 from utils.phq9_questions import PHQ9_QUESTIONS
-from utils.tts import generate_tts_audio
 import key_param
 
 MODEL_NAME = "gpt-3.5-turbo"  # keep pluggable
@@ -168,12 +167,8 @@ Now reply like a kind friend in 1–3 short sentences. If you asked a question a
 
         reply_text = self._compose_reply(st, next_q)
 
-        # TTS
-        audio_path = generate_tts_audio(reply_text)
-
         return {
             "response": reply_text,
-            "audio_url": f"/voice-audio?path={audio_path}",
             "phq9_questionID": (next_q["id"] if next_q else None),
             "phq9_question": (next_q["question"] if next_q else None),
         }

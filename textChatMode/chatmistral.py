@@ -14,7 +14,6 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_mongodb import MongoDBAtlasVectorSearch
 
 from utils.phq9_questions import PHQ9_QUESTIONS
-from utils.tts import generate_tts_audio
 import key_param
 
 router = APIRouter()
@@ -262,14 +261,8 @@ Guidance for the next turn (for you):
     if not reply:
         reply = "I'm here with you. What feels hardest right now?"
 
-    audio_path = generate_tts_audio(reply)  # returns None on empty
     return {
         "response": reply,
-        "audio_url": (f"/voice-audio?path={audio_path}" if audio_path else None),
         "phq9_questionID": (next_phq["id"] if (next_phq and not early_stage) else None),
         "phq9_question": (next_phq["question"] if (next_phq and not early_stage) else None),
     }
-
-@router.get("/voice-audio")
-def voice_audio(path: str):
-    return FileResponse(path, media_type="audio/mpeg", filename="bot_reply.mp3")
