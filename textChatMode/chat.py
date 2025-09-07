@@ -5,7 +5,6 @@ from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_mongodb import MongoDBAtlasVectorSearch
 from difflib import SequenceMatcher
 from utils.phq9_questions import PHQ9_QUESTIONS
-from utils.tts import generate_tts_audio 
 import key_param
 from fastapi.responses import FileResponse
 
@@ -158,12 +157,9 @@ Now reply like a kind friend:
 
     matched_q = next_phq_q if not early_stage else None
 
-
-    audio_path = generate_tts_audio(final_text)
-
     return {
         "response": final_text,
-        "audio_url": f"/voice-audio?path={audio_path}",  
+        "audio_url": f"/voice-audio?path",  
         "phq9_questionID": matched_q["id"] if matched_q else None,
         "phq9_question": matched_q["question"] if matched_q else None
     }
