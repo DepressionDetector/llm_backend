@@ -67,7 +67,6 @@ PHQ-9 responses (in order):
         data = generate_json(user_prompt, schema=_MIN_SCHEMA)
         return {"phq9_score": data["total_score"], "level": data["level"]}
     except Exception:
-        # Fallback: ask for the text format you showed and parse it
         txt_prompt = f"""
 [INST] Analyze the following PHQ-9 responses and provide the score and depression level.
 
