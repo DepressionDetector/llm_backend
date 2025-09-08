@@ -34,8 +34,10 @@ from difflib import SequenceMatcher
 
 #     return { "summary": response.content.strip() }
 
+
 class SummaryRequest(BaseModel):
     history: str
+
 
 @router.post("/summarize")
 async def summarize_chat(data: SummaryRequest):
@@ -60,6 +62,7 @@ class QueryRequest(BaseModel):
     history: str
     summaries: list[str] = []
     asked_phq_ids: list[int] = []
+
 
 @router.post("/ask")
 async def ask_question(data: QueryRequest):
@@ -159,11 +162,7 @@ Now reply like a kind friend:
 
     return {
         "response": final_text,
-        "audio_url": f"/voice-audio?path",  
         "phq9_questionID": matched_q["id"] if matched_q else None,
         "phq9_question": matched_q["question"] if matched_q else None
     }
     
-@router.get("/voice-audio")
-def voice_audio(path: str):
-    return FileResponse(path, media_type="audio/mpeg", filename="bot_reply.mp3")      
