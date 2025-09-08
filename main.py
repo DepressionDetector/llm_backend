@@ -7,9 +7,7 @@ load_dotenv()
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))) 
 
 from textChatMode.chat import router as ask_router
-#from textChatMode.chatmistral import router as ask_router
-#from LevelDetection.router.levelDetection import router as level_detection_router
-#from textChatMode.assesmentAgent.routes import router as agent_router
+from LevelDetection.router.levelDetection import router as level_detection_router
 
 app = FastAPI()
  
@@ -24,8 +22,7 @@ app.add_middleware(
 
 # Register routes from other files
 app.include_router(ask_router)
-""" app.include_router(level_detection_router)
-app.include_router(agent_router) """
+app.include_router(level_detection_router)
 
 @app.get("/")
 def root():
