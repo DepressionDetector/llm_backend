@@ -5,7 +5,7 @@ import requests
 from jsonschema import validate  # pip install jsonschema
 
 # Ngrok → Ollama host (override via env)
-BASE = os.getenv("OLLAMA_BASE", " https://c6e71855f5ee.ngrok-free.app").rstrip("/")
+BASE = os.getenv("OLLAMA_BASE", "https://55713976f485.ngrok-free.app").rstrip("/")
 
 LEVEL_MODEL = os.getenv("LEVEL_MODEL", "mistral-LevelDetector")
 AUTH = None 
@@ -30,7 +30,7 @@ def mistral_generate(prompt: str, temperature: float = 0.3, num_predict: int = 1
     """Plain text generation (no JSON)."""
     data = _post_generate(
         {
-            "model": "mistral-mentalhealth",          # use your fine-tuned model
+            "model": "mistral-LevelDetector",         
             "prompt": prompt,
             "stream": False,
             "options": {
@@ -59,7 +59,7 @@ def generate_json(user_prompt: str, schema: dict, num_predict: int = 200) -> dic
 
     data = _post_generate(
         {
-            "model": "mistral-mentalhealth",          # use your fine-tuned model
+            "model": "mistral-LevelDetector",         
             "prompt": instruct,
             "stream": False,
             "format": "json",
